@@ -12,17 +12,22 @@ async function main() {
   const org = process.env.ORG
   const repos = await getRepos(org)
 
-  const json = []
+  const repoContributors = []
 
   for (const { repo, url } of repos) {
     const contributors = await getContributors(org, repo)
 
-    json.push({
+    repoContributors.push({
       org,
       repo,
       url,
       contributors
     })
+  }
+
+  const json = {
+    lastUpdated: Date.now(),
+    repos: repoContributors
   }
 
   console.log(JSON.stringify(json, null, 2))
