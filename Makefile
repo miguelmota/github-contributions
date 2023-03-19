@@ -3,3 +3,9 @@ serve:
 
 build:
 	node index.js > public/output/contributions.json
+
+docker-build:
+	docker build -f Dockerfile -t github-contributions .
+
+docker-start:
+	docker run --env-file .env github-contributions

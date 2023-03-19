@@ -9,13 +9,28 @@
 ## Usage
 
 ```sh
-ORG=<org-name-or-username> make build
+GITHUB_TOKEN=123... ORG=someOrgOrUsername make build
 ```
 
 ```sh
 make serve
 ```
+
 [http://localhost:3000/](http://localhost:3000/)
+
+### Docker
+
+Build Docker
+
+```sh
+docker build -f Dockerfile -t github-contributions .
+```
+
+Build JSON
+
+```sh
+docker run --env-file .env github-contributions
+```
 
 ## License
 
