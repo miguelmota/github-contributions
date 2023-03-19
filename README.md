@@ -8,15 +8,19 @@
 
 ## Usage
 
+Build JSON
+
 ```sh
 GITHUB_TOKEN=123... ORG=someOrgOrUsername make build
 ```
+
+Serve app
 
 ```sh
 make serve
 ```
 
-[http://localhost:3000/](http://localhost:3000/)
+Visit [http://localhost:3000/](http://localhost:3000/)
 
 ### Docker
 
