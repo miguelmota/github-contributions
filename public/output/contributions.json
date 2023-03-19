@@ -1,0 +1,367 @@
+{
+  "lastUpdated": 1679252640663,
+  "org": "hop-protocol",
+  "repos": [
+    {
+      "org": "hop-protocol",
+      "repo": "hop",
+      "url": "https://github.com/hop-protocol/hop",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 3286,
+          "percentage": 54.31
+        },
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 2065,
+          "percentage": 34.13
+        },
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 451,
+          "percentage": 7.45
+        },
+        {
+          "username": "kangarang",
+          "avatar": "https://avatars.githubusercontent.com/u/18040654?v=4",
+          "url": "https://github.com/kangarang",
+          "contributions": 221,
+          "percentage": 3.65
+        },
+        {
+          "username": "gsgalloway",
+          "avatar": "https://avatars.githubusercontent.com/u/2490863?v=4",
+          "url": "https://github.com/gsgalloway",
+          "contributions": 19,
+          "percentage": 0.31
+        },
+        {
+          "username": "jackmpcollins",
+          "avatar": "https://avatars.githubusercontent.com/u/6640905?v=4",
+          "url": "https://github.com/jackmpcollins",
+          "contributions": 3,
+          "percentage": 0.05
+        },
+        {
+          "username": "lukerhoads",
+          "avatar": "https://avatars.githubusercontent.com/u/51463884?v=4",
+          "url": "https://github.com/lukerhoads",
+          "contributions": 1,
+          "percentage": 0.02
+        },
+        {
+          "username": "ramuta",
+          "avatar": "https://avatars.githubusercontent.com/u/1401855?v=4",
+          "url": "https://github.com/ramuta",
+          "contributions": 1,
+          "percentage": 0.02
+        },
+        {
+          "username": "alter-eggo",
+          "avatar": "https://avatars.githubusercontent.com/u/46521087?v=4",
+          "url": "https://github.com/alter-eggo",
+          "contributions": 1,
+          "percentage": 0.02
+        },
+        {
+          "username": "nicosampler",
+          "avatar": "https://avatars.githubusercontent.com/u/4376509?v=4",
+          "url": "https://github.com/nicosampler",
+          "contributions": 1,
+          "percentage": 0.02
+        },
+        {
+          "username": "robriks",
+          "avatar": "https://avatars.githubusercontent.com/u/80549215?v=4",
+          "url": "https://github.com/robriks",
+          "contributions": 1,
+          "percentage": 0.02
+        },
+        {
+          "username": "sambacha",
+          "avatar": "https://avatars.githubusercontent.com/u/32783916?v=4",
+          "url": "https://github.com/sambacha",
+          "contributions": 1,
+          "percentage": 0.02
+        }
+      ],
+      "totalContributions": 6051
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "contracts",
+      "url": "https://github.com/hop-protocol/contracts",
+      "contributors": [
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 557,
+          "percentage": 58.08
+        },
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 379,
+          "percentage": 39.52
+        },
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 15,
+          "percentage": 1.56
+        },
+        {
+          "username": "sz-piotr",
+          "avatar": "https://avatars.githubusercontent.com/u/17070569?v=4",
+          "url": "https://github.com/sz-piotr",
+          "contributions": 3,
+          "percentage": 0.31
+        },
+        {
+          "username": "knoshua",
+          "avatar": "https://avatars.githubusercontent.com/u/86415413?v=4",
+          "url": "https://github.com/knoshua",
+          "contributions": 2,
+          "percentage": 0.21
+        },
+        {
+          "username": "AlexITC",
+          "avatar": "https://avatars.githubusercontent.com/u/4218436?v=4",
+          "url": "https://github.com/AlexITC",
+          "contributions": 1,
+          "percentage": 0.1
+        },
+        {
+          "username": "lukerhoads",
+          "avatar": "https://avatars.githubusercontent.com/u/51463884?v=4",
+          "url": "https://github.com/lukerhoads",
+          "contributions": 1,
+          "percentage": 0.1
+        },
+        {
+          "username": "moodmosaic",
+          "avatar": "https://avatars.githubusercontent.com/u/287532?v=4",
+          "url": "https://github.com/moodmosaic",
+          "contributions": 1,
+          "percentage": 0.1
+        }
+      ],
+      "totalContributions": 959
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "hop-airdrop",
+      "url": "https://github.com/hop-protocol/hop-airdrop",
+      "contributors": [
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 343,
+          "percentage": 98.28
+        },
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 6,
+          "percentage": 1.72
+        }
+      ],
+      "totalContributions": 349
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "explorer",
+      "url": "https://github.com/hop-protocol/explorer",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 277,
+          "percentage": 94.86
+        },
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 14,
+          "percentage": 4.79
+        },
+        {
+          "username": "kangarang",
+          "avatar": "https://avatars.githubusercontent.com/u/18040654?v=4",
+          "url": "https://github.com/kangarang",
+          "contributions": 1,
+          "percentage": 0.34
+        }
+      ],
+      "totalContributions": 292
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "merkle-drop-framework",
+      "url": "https://github.com/hop-protocol/merkle-drop-framework",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 133,
+          "percentage": 100
+        }
+      ],
+      "totalContributions": 133
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "subgraph",
+      "url": "https://github.com/hop-protocol/subgraph",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 64,
+          "percentage": 75.29
+        },
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 14,
+          "percentage": 16.47
+        },
+        {
+          "username": "PaulieB14",
+          "avatar": "https://avatars.githubusercontent.com/u/94752445?v=4",
+          "url": "https://github.com/PaulieB14",
+          "contributions": 6,
+          "percentage": 7.06
+        },
+        {
+          "username": "kangarang",
+          "avatar": "https://avatars.githubusercontent.com/u/18040654?v=4",
+          "url": "https://github.com/kangarang",
+          "contributions": 1,
+          "percentage": 1.18
+        }
+      ],
+      "totalContributions": 85
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "governance",
+      "url": "https://github.com/hop-protocol/governance",
+      "contributors": [
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 26,
+          "percentage": 48.15
+        },
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 24,
+          "percentage": 44.44
+        },
+        {
+          "username": "kangarang",
+          "avatar": "https://avatars.githubusercontent.com/u/18040654?v=4",
+          "url": "https://github.com/kangarang",
+          "contributions": 4,
+          "percentage": 7.41
+        }
+      ],
+      "totalContributions": 54
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "merkle-rewards",
+      "url": "https://github.com/hop-protocol/merkle-rewards",
+      "contributors": [
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 34,
+          "percentage": 100
+        }
+      ],
+      "totalContributions": 34
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "landing-page",
+      "url": "https://github.com/hop-protocol/landing-page",
+      "contributors": [
+        {
+          "username": "cwhinfrey",
+          "avatar": "https://avatars.githubusercontent.com/u/11652019?v=4",
+          "url": "https://github.com/cwhinfrey",
+          "contributions": 16,
+          "percentage": 61.54
+        },
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 8,
+          "percentage": 30.77
+        },
+        {
+          "username": "shanefontaine",
+          "avatar": "https://avatars.githubusercontent.com/u/9441295?v=4",
+          "url": "https://github.com/shanefontaine",
+          "contributions": 2,
+          "percentage": 7.69
+        }
+      ],
+      "totalContributions": 26
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "stats",
+      "url": "https://github.com/hop-protocol/stats",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 14,
+          "percentage": 100
+        }
+      ],
+      "totalContributions": 14
+    },
+    {
+      "org": "hop-protocol",
+      "repo": "tla-spec",
+      "url": "https://github.com/hop-protocol/tla-spec",
+      "contributors": [
+        {
+          "username": "miguelmota",
+          "avatar": "https://avatars.githubusercontent.com/u/168240?v=4",
+          "url": "https://github.com/miguelmota",
+          "contributions": 5,
+          "percentage": 100
+        }
+      ],
+      "totalContributions": 5
+    }
+  ]
+}
