@@ -4,30 +4,43 @@ require('dotenv').config()
 
 const authToken = process.env.GITHUB_TOKEN
 
+if (!authToken) {
+  throw new Error('GITHUB_TOKEN is required')
+}
+
 const octokit = new Octokit({
   auth: authToken
 })
 
 async function main() {
-  const org = process.env.ORG
+  const org = process.argv[2] || process.env.ORG
+  if (!org) {
+    throw new Error('Please provide an org name')
+  }
+
   const repos = await getRepos(org)
 
   const repoContributors = []
 
   for (const { repo, url } of repos) {
     const contributors = await getContributors(org, repo)
+    const totalContributions = contributors.reduce((acc, curr) => acc + curr.contributions, 0)
 
     repoContributors.push({
       org,
       repo,
       url,
-      contributors
+      contributors,
+      totalContributions
     })
   }
 
+  const sortedRepoContributors = repoContributors.sort((a, b) => b.totalContributions - a.totalContributions)
+
   const json = {
     lastUpdated: Date.now(),
-    repos: repoContributors
+    org,
+    repos: sortedRepoContributors
   }
 
   console.log(JSON.stringify(json, null, 2))
@@ -72,12 +85,18 @@ async function getContributors(org, repo) {
 
   const json = []
 
+  let sumContributions = 0
+  for (const item of res.data) {
+    sumContributions += item.contributions
+  }
+
   for (const item of res.data) {
     json.push({
       username: item.login,
       avatar: item.avatar_url,
       url: item.html_url,
-      contributions: item.contributions
+      contributions: item.contributions,
+      percentage: Number(((item.contributions / sumContributions) * 100).toFixed(2))
     })
   }
 

@@ -1,15 +1,17 @@
-const url = 'http://localhost:2222/output/data.json'
+const url = '../output/contributions.json'
 
 const $root = document.querySelector('#root')
 
 async function main() {
-  let html = `<h1 style="margin-bottom: 5rem;">hop-protocol contributions</h1>`
+  let html = ''
 
   const res = await fetch(url)
   const json = await res.json()
 
+  const orgName = json.org
+  html += `<h1 style="margin-bottom: 5rem;">${orgName} contributions</h1>`
   const repos = json.repos
-  const lastUpdated = json.lastUpdated
+  const lastUpdated = new Date(json.lastUpdated).toISOString()
 
   html += `<div>Last updated: ${lastUpdated}</div>`
 
@@ -21,7 +23,7 @@ async function main() {
         ${repo.contributors.map((contributor) => {
           return `
             <div style="margin-right: 2rem;">
-              <h2>${contributor.contributions}</h2>
+              <h2>${contributor.contributions} (${contributor.percentage}%)</h2>
               <div>
                 <a href="${contributor.url}">
                   <div><img src="${contributor.avatar}" width="64px" /></div>
