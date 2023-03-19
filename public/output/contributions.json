@@ -1,0 +1,5741 @@
+{
+  "lastUpdated": 1679252909767,
+  "org": "golang",
+  "repos": [
+    {
+      "org": "golang",
+      "repo": "go",
+      "url": "https://github.com/golang/go",
+      "contributors": [
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 7180,
+          "percentage": 18.56
+        },
+        {
+          "username": "griesemer",
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?v=4",
+          "url": "https://github.com/griesemer",
+          "contributions": 4133,
+          "percentage": 10.68
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 2987,
+          "percentage": 7.72
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 2436,
+          "percentage": 6.3
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 2368,
+          "percentage": 6.12
+        },
+        {
+          "username": "aclements",
+          "avatar": "https://avatars.githubusercontent.com/u/2688315?v=4",
+          "url": "https://github.com/aclements",
+          "contributions": 1622,
+          "percentage": 4.19
+        },
+        {
+          "username": "mdempsky",
+          "avatar": "https://avatars.githubusercontent.com/u/38349?v=4",
+          "url": "https://github.com/mdempsky",
+          "contributions": 1551,
+          "percentage": 4.01
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1495,
+          "percentage": 3.86
+        },
+        {
+          "username": "randall77",
+          "avatar": "https://avatars.githubusercontent.com/u/6889504?v=4",
+          "url": "https://github.com/randall77",
+          "contributions": 1428,
+          "percentage": 3.69
+        },
+        {
+          "username": "cherrymui",
+          "avatar": "https://avatars.githubusercontent.com/u/14119929?v=4",
+          "url": "https://github.com/cherrymui",
+          "contributions": 1383,
+          "percentage": 3.57
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 1192,
+          "percentage": 3.08
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 1160,
+          "percentage": 3
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 924,
+          "percentage": 2.39
+        },
+        {
+          "username": "dvyukov",
+          "avatar": "https://avatars.githubusercontent.com/u/1095328?v=4",
+          "url": "https://github.com/dvyukov",
+          "contributions": 886,
+          "percentage": 2.29
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 777,
+          "percentage": 2.01
+        },
+        {
+          "username": "cixtor",
+          "avatar": "https://avatars.githubusercontent.com/u/1933999?v=4",
+          "url": "https://github.com/cixtor",
+          "contributions": 741,
+          "percentage": 1.92
+        },
+        {
+          "username": "cuonglm",
+          "avatar": "https://avatars.githubusercontent.com/u/4304764?v=4",
+          "url": "https://github.com/cuonglm",
+          "contributions": 567,
+          "percentage": 1.47
+        },
+        {
+          "username": "agl",
+          "avatar": "https://avatars.githubusercontent.com/u/21203?v=4",
+          "url": "https://github.com/agl",
+          "contributions": 524,
+          "percentage": 1.35
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 522,
+          "percentage": 1.35
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 518,
+          "percentage": 1.34
+        },
+        {
+          "username": "ken",
+          "avatar": "https://avatars.githubusercontent.com/u/9967170?v=4",
+          "url": "https://github.com/ken",
+          "contributions": 508,
+          "percentage": 1.31
+        },
+        {
+          "username": "thanm",
+          "avatar": "https://avatars.githubusercontent.com/u/12280172?v=4",
+          "url": "https://github.com/thanm",
+          "contributions": 482,
+          "percentage": 1.25
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 476,
+          "percentage": 1.23
+        },
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 467,
+          "percentage": 1.21
+        },
+        {
+          "username": "dr2chase",
+          "avatar": "https://avatars.githubusercontent.com/u/1928999?v=4",
+          "url": "https://github.com/dr2chase",
+          "contributions": 420,
+          "percentage": 1.09
+        },
+        {
+          "username": "mknyszek",
+          "avatar": "https://avatars.githubusercontent.com/u/1248668?v=4",
+          "url": "https://github.com/mknyszek",
+          "contributions": 406,
+          "percentage": 1.05
+        },
+        {
+          "username": "mvdan",
+          "avatar": "https://avatars.githubusercontent.com/u/3576549?v=4",
+          "url": "https://github.com/mvdan",
+          "contributions": 400,
+          "percentage": 1.03
+        },
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 393,
+          "percentage": 1.02
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 392,
+          "percentage": 1.01
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 353,
+          "percentage": 0.91
+        }
+      ],
+      "totalContributions": 38691
+    },
+    {
+      "org": "golang",
+      "repo": "tools",
+      "url": "https://github.com/golang/tools",
+      "contributors": [
+        {
+          "username": "stamblerre",
+          "avatar": "https://avatars.githubusercontent.com/u/5856771?v=4",
+          "url": "https://github.com/stamblerre",
+          "contributions": 997,
+          "percentage": 16.3
+        },
+        {
+          "username": "adonovan",
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?v=4",
+          "url": "https://github.com/adonovan",
+          "contributions": 993,
+          "percentage": 16.23
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 774,
+          "percentage": 12.65
+        },
+        {
+          "username": "griesemer",
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?v=4",
+          "url": "https://github.com/griesemer",
+          "contributions": 489,
+          "percentage": 7.99
+        },
+        {
+          "username": "ianthehat",
+          "avatar": "https://avatars.githubusercontent.com/u/858832?v=4",
+          "url": "https://github.com/ianthehat",
+          "contributions": 372,
+          "percentage": 6.08
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 319,
+          "percentage": 5.21
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 235,
+          "percentage": 3.84
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 199,
+          "percentage": 3.25
+        },
+        {
+          "username": "muirdm",
+          "avatar": "https://avatars.githubusercontent.com/u/11356572?v=4",
+          "url": "https://github.com/muirdm",
+          "contributions": 196,
+          "percentage": 3.2
+        },
+        {
+          "username": "matloob",
+          "avatar": "https://avatars.githubusercontent.com/u/16470053?v=4",
+          "url": "https://github.com/matloob",
+          "contributions": 177,
+          "percentage": 2.89
+        },
+        {
+          "username": "pjweinbgo",
+          "avatar": "https://avatars.githubusercontent.com/u/9947172?v=4",
+          "url": "https://github.com/pjweinbgo",
+          "contributions": 174,
+          "percentage": 2.84
+        },
+        {
+          "username": "suzmue",
+          "avatar": "https://avatars.githubusercontent.com/u/6634754?v=4",
+          "url": "https://github.com/suzmue",
+          "contributions": 123,
+          "percentage": 2.01
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 116,
+          "percentage": 1.9
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 107,
+          "percentage": 1.75
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 103,
+          "percentage": 1.68
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 85,
+          "percentage": 1.39
+        },
+        {
+          "username": "ridersofrohan",
+          "avatar": "https://avatars.githubusercontent.com/u/3170854?v=4",
+          "url": "https://github.com/ridersofrohan",
+          "contributions": 84,
+          "percentage": 1.37
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 77,
+          "percentage": 1.26
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 63,
+          "percentage": 1.03
+        },
+        {
+          "username": "timothy-king",
+          "avatar": "https://avatars.githubusercontent.com/u/797368?v=4",
+          "url": "https://github.com/timothy-king",
+          "contributions": 63,
+          "percentage": 1.03
+        },
+        {
+          "username": "dominikh",
+          "avatar": "https://avatars.githubusercontent.com/u/39825?v=4",
+          "url": "https://github.com/dominikh",
+          "contributions": 45,
+          "percentage": 0.74
+        },
+        {
+          "username": "zpavlinovic",
+          "avatar": "https://avatars.githubusercontent.com/u/874540?v=4",
+          "url": "https://github.com/zpavlinovic",
+          "contributions": 42,
+          "percentage": 0.69
+        },
+        {
+          "username": "agnivade",
+          "avatar": "https://avatars.githubusercontent.com/u/1774000?v=4",
+          "url": "https://github.com/agnivade",
+          "contributions": 41,
+          "percentage": 0.67
+        },
+        {
+          "username": "leitzler",
+          "avatar": "https://avatars.githubusercontent.com/u/3111805?v=4",
+          "url": "https://github.com/leitzler",
+          "contributions": 40,
+          "percentage": 0.65
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 39,
+          "percentage": 0.64
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 38,
+          "percentage": 0.62
+        },
+        {
+          "username": "dandua98",
+          "avatar": "https://avatars.githubusercontent.com/u/24802378?v=4",
+          "url": "https://github.com/dandua98",
+          "contributions": 35,
+          "percentage": 0.57
+        },
+        {
+          "username": "davidrjenni",
+          "avatar": "https://avatars.githubusercontent.com/u/10241572?v=4",
+          "url": "https://github.com/davidrjenni",
+          "contributions": 32,
+          "percentage": 0.52
+        },
+        {
+          "username": "dvyukov",
+          "avatar": "https://avatars.githubusercontent.com/u/1095328?v=4",
+          "url": "https://github.com/dvyukov",
+          "contributions": 31,
+          "percentage": 0.51
+        },
+        {
+          "username": "mdempsky",
+          "avatar": "https://avatars.githubusercontent.com/u/38349?v=4",
+          "url": "https://github.com/mdempsky",
+          "contributions": 29,
+          "percentage": 0.47
+        }
+      ],
+      "totalContributions": 6118
+    },
+    {
+      "org": "golang",
+      "repo": "build",
+      "url": "https://github.com/golang/build",
+      "contributors": [
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 948,
+          "percentage": 28.54
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 487,
+          "percentage": 14.66
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 233,
+          "percentage": 7.01
+        },
+        {
+          "username": "cagedmantis",
+          "avatar": "https://avatars.githubusercontent.com/u/146817?v=4",
+          "url": "https://github.com/cagedmantis",
+          "contributions": 228,
+          "percentage": 6.86
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 194,
+          "percentage": 5.84
+        },
+        {
+          "username": "toothrot",
+          "avatar": "https://avatars.githubusercontent.com/u/9885?v=4",
+          "url": "https://github.com/toothrot",
+          "contributions": 178,
+          "percentage": 5.36
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 173,
+          "percentage": 5.21
+        },
+        {
+          "username": "prattmic",
+          "avatar": "https://avatars.githubusercontent.com/u/1293187?v=4",
+          "url": "https://github.com/prattmic",
+          "contributions": 98,
+          "percentage": 2.95
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 89,
+          "percentage": 2.68
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 73,
+          "percentage": 2.2
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 72,
+          "percentage": 2.17
+        },
+        {
+          "username": "mknyszek",
+          "avatar": "https://avatars.githubusercontent.com/u/1248668?v=4",
+          "url": "https://github.com/mknyszek",
+          "contributions": 67,
+          "percentage": 2.02
+        },
+        {
+          "username": "quentinmit",
+          "avatar": "https://avatars.githubusercontent.com/u/115761?v=4",
+          "url": "https://github.com/quentinmit",
+          "contributions": 47,
+          "percentage": 1.41
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 43,
+          "percentage": 1.29
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 36,
+          "percentage": 1.08
+        },
+        {
+          "username": "jessfraz",
+          "avatar": "https://avatars.githubusercontent.com/u/1445228?v=4",
+          "url": "https://github.com/jessfraz",
+          "contributions": 33,
+          "percentage": 0.99
+        },
+        {
+          "username": "dvyukov",
+          "avatar": "https://avatars.githubusercontent.com/u/1095328?v=4",
+          "url": "https://github.com/dvyukov",
+          "contributions": 33,
+          "percentage": 0.99
+        },
+        {
+          "username": "stamblerre",
+          "avatar": "https://avatars.githubusercontent.com/u/5856771?v=4",
+          "url": "https://github.com/stamblerre",
+          "contributions": 32,
+          "percentage": 0.96
+        },
+        {
+          "username": "thanm",
+          "avatar": "https://avatars.githubusercontent.com/u/12280172?v=4",
+          "url": "https://github.com/thanm",
+          "contributions": 30,
+          "percentage": 0.9
+        },
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 29,
+          "percentage": 0.87
+        },
+        {
+          "username": "0intro",
+          "avatar": "https://avatars.githubusercontent.com/u/6043744?v=4",
+          "url": "https://github.com/0intro",
+          "contributions": 28,
+          "percentage": 0.84
+        },
+        {
+          "username": "mengzhuo",
+          "avatar": "https://avatars.githubusercontent.com/u/885662?v=4",
+          "url": "https://github.com/mengzhuo",
+          "contributions": 25,
+          "percentage": 0.75
+        },
+        {
+          "username": "eliasnaur",
+          "avatar": "https://avatars.githubusercontent.com/u/524812?v=4",
+          "url": "https://github.com/eliasnaur",
+          "contributions": 24,
+          "percentage": 0.72
+        },
+        {
+          "username": "evandbrown",
+          "avatar": "https://avatars.githubusercontent.com/u/656941?v=4",
+          "url": "https://github.com/evandbrown",
+          "contributions": 23,
+          "percentage": 0.69
+        },
+        {
+          "username": "rolandshoemaker",
+          "avatar": "https://avatars.githubusercontent.com/u/5080674?v=4",
+          "url": "https://github.com/rolandshoemaker",
+          "contributions": 18,
+          "percentage": 0.54
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 18,
+          "percentage": 0.54
+        },
+        {
+          "username": "cherrymui",
+          "avatar": "https://avatars.githubusercontent.com/u/14119929?v=4",
+          "url": "https://github.com/cherrymui",
+          "contributions": 17,
+          "percentage": 0.51
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 16,
+          "percentage": 0.48
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 15,
+          "percentage": 0.45
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 15,
+          "percentage": 0.45
+        }
+      ],
+      "totalContributions": 3322
+    },
+    {
+      "org": "golang",
+      "repo": "gofrontend",
+      "url": "https://github.com/golang/gofrontend",
+      "contributors": [
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 2100,
+          "percentage": 81.4
+        },
+        {
+          "username": "cherrymui",
+          "avatar": "https://avatars.githubusercontent.com/u/14119929?v=4",
+          "url": "https://github.com/cherrymui",
+          "contributions": 121,
+          "percentage": 4.69
+        },
+        {
+          "username": "thanm",
+          "avatar": "https://avatars.githubusercontent.com/u/12280172?v=4",
+          "url": "https://github.com/thanm",
+          "contributions": 110,
+          "percentage": 4.26
+        },
+        {
+          "username": "MatthieuSarter",
+          "avatar": "https://avatars.githubusercontent.com/u/11583916?v=4",
+          "url": "https://github.com/MatthieuSarter",
+          "contributions": 41,
+          "percentage": 1.59
+        },
+        {
+          "username": "trex58",
+          "avatar": "https://avatars.githubusercontent.com/u/5690106?v=4",
+          "url": "https://github.com/trex58",
+          "contributions": 31,
+          "percentage": 1.2
+        },
+        {
+          "username": "remyoudompheng",
+          "avatar": "https://avatars.githubusercontent.com/u/175246?v=4",
+          "url": "https://github.com/remyoudompheng",
+          "contributions": 26,
+          "percentage": 1.01
+        },
+        {
+          "username": "vinuraja",
+          "avatar": "https://avatars.githubusercontent.com/u/17071954?v=4",
+          "url": "https://github.com/vinuraja",
+          "contributions": 21,
+          "percentage": 0.81
+        },
+        {
+          "username": "benesch",
+          "avatar": "https://avatars.githubusercontent.com/u/882976?v=4",
+          "url": "https://github.com/benesch",
+          "contributions": 20,
+          "percentage": 0.78
+        },
+        {
+          "username": "pcc",
+          "avatar": "https://avatars.githubusercontent.com/u/425024?v=4",
+          "url": "https://github.com/pcc",
+          "contributions": 18,
+          "percentage": 0.7
+        },
+        {
+          "username": "laboger",
+          "avatar": "https://avatars.githubusercontent.com/u/9433228?v=4",
+          "url": "https://github.com/laboger",
+          "contributions": 16,
+          "percentage": 0.62
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 10,
+          "percentage": 0.39
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 10,
+          "percentage": 0.39
+        },
+        {
+          "username": "benshi001",
+          "avatar": "https://avatars.githubusercontent.com/u/24586233?v=4",
+          "url": "https://github.com/benshi001",
+          "contributions": 9,
+          "percentage": 0.35
+        },
+        {
+          "username": "jcowgill",
+          "avatar": "https://avatars.githubusercontent.com/u/1226825?v=4",
+          "url": "https://github.com/jcowgill",
+          "contributions": 6,
+          "percentage": 0.23
+        },
+        {
+          "username": "axw",
+          "avatar": "https://avatars.githubusercontent.com/u/843579?v=4",
+          "url": "https://github.com/axw",
+          "contributions": 5,
+          "percentage": 0.19
+        },
+        {
+          "username": "jrtc27",
+          "avatar": "https://avatars.githubusercontent.com/u/816232?v=4",
+          "url": "https://github.com/jrtc27",
+          "contributions": 5,
+          "percentage": 0.19
+        },
+        {
+          "username": "Helflym",
+          "avatar": "https://avatars.githubusercontent.com/u/23002587?v=4",
+          "url": "https://github.com/Helflym",
+          "contributions": 4,
+          "percentage": 0.16
+        },
+        {
+          "username": "erifan",
+          "avatar": "https://avatars.githubusercontent.com/u/31343225?v=4",
+          "url": "https://github.com/erifan",
+          "contributions": 4,
+          "percentage": 0.16
+        },
+        {
+          "username": "cwedgwood",
+          "avatar": "https://avatars.githubusercontent.com/u/157429?v=4",
+          "url": "https://github.com/cwedgwood",
+          "contributions": 3,
+          "percentage": 0.12
+        },
+        {
+          "username": "edsrzf",
+          "avatar": "https://avatars.githubusercontent.com/u/369904?v=4",
+          "url": "https://github.com/edsrzf",
+          "contributions": 3,
+          "percentage": 0.12
+        },
+        {
+          "username": "rluble",
+          "avatar": "https://avatars.githubusercontent.com/u/4175508?v=4",
+          "url": "https://github.com/rluble",
+          "contributions": 3,
+          "percentage": 0.12
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 2,
+          "percentage": 0.08
+        },
+        {
+          "username": "snabb",
+          "avatar": "https://avatars.githubusercontent.com/u/867559?v=4",
+          "url": "https://github.com/snabb",
+          "contributions": 2,
+          "percentage": 0.08
+        },
+        {
+          "username": "mpolacek",
+          "avatar": "https://avatars.githubusercontent.com/u/10496300?v=4",
+          "url": "https://github.com/mpolacek",
+          "contributions": 2,
+          "percentage": 0.08
+        },
+        {
+          "username": "matloob",
+          "avatar": "https://avatars.githubusercontent.com/u/16470053?v=4",
+          "url": "https://github.com/matloob",
+          "contributions": 2,
+          "percentage": 0.08
+        },
+        {
+          "username": "pmur",
+          "avatar": "https://avatars.githubusercontent.com/u/12972156?v=4",
+          "url": "https://github.com/pmur",
+          "contributions": 2,
+          "percentage": 0.08
+        },
+        {
+          "username": "awilfox",
+          "avatar": "https://avatars.githubusercontent.com/u/303838?v=4",
+          "url": "https://github.com/awilfox",
+          "contributions": 1,
+          "percentage": 0.04
+        },
+        {
+          "username": "alshopov",
+          "avatar": "https://avatars.githubusercontent.com/u/449359?v=4",
+          "url": "https://github.com/alshopov",
+          "contributions": 1,
+          "percentage": 0.04
+        },
+        {
+          "username": "pinskia",
+          "avatar": "https://avatars.githubusercontent.com/u/8496799?v=4",
+          "url": "https://github.com/pinskia",
+          "contributions": 1,
+          "percentage": 0.04
+        },
+        {
+          "username": "avelino",
+          "avatar": "https://avatars.githubusercontent.com/u/31996?v=4",
+          "url": "https://github.com/avelino",
+          "contributions": 1,
+          "percentage": 0.04
+        }
+      ],
+      "totalContributions": 2580
+    },
+    {
+      "org": "golang",
+      "repo": "net",
+      "url": "https://github.com/golang/net",
+      "contributors": [
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 540,
+          "percentage": 35.06
+        },
+        {
+          "username": "cixtor",
+          "avatar": "https://avatars.githubusercontent.com/u/1933999?v=4",
+          "url": "https://github.com/cixtor",
+          "contributions": 389,
+          "percentage": 25.26
+        },
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 88,
+          "percentage": 5.71
+        },
+        {
+          "username": "neild",
+          "avatar": "https://avatars.githubusercontent.com/u/52544?v=4",
+          "url": "https://github.com/neild",
+          "contributions": 68,
+          "percentage": 4.42
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 67,
+          "percentage": 4.35
+        },
+        {
+          "username": "namusyaka",
+          "avatar": "https://avatars.githubusercontent.com/u/309329?v=4",
+          "url": "https://github.com/namusyaka",
+          "contributions": 42,
+          "percentage": 2.73
+        },
+        {
+          "username": "tombergan",
+          "avatar": "https://avatars.githubusercontent.com/u/13954200?v=4",
+          "url": "https://github.com/tombergan",
+          "contributions": 38,
+          "percentage": 2.47
+        },
+        {
+          "username": "mikioh",
+          "avatar": "https://avatars.githubusercontent.com/u/92117?v=4",
+          "url": "https://github.com/mikioh",
+          "contributions": 35,
+          "percentage": 2.27
+        },
+        {
+          "username": "fraenkel",
+          "avatar": "https://avatars.githubusercontent.com/u/929377?v=4",
+          "url": "https://github.com/fraenkel",
+          "contributions": 31,
+          "percentage": 2.01
+        },
+        {
+          "username": "bmizerany",
+          "avatar": "https://avatars.githubusercontent.com/u/46?v=4",
+          "url": "https://github.com/bmizerany",
+          "contributions": 26,
+          "percentage": 1.69
+        },
+        {
+          "username": "vdobler",
+          "avatar": "https://avatars.githubusercontent.com/u/701382?v=4",
+          "url": "https://github.com/vdobler",
+          "contributions": 22,
+          "percentage": 1.43
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 21,
+          "percentage": 1.36
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 19,
+          "percentage": 1.23
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 18,
+          "percentage": 1.17
+        },
+        {
+          "username": "rsto",
+          "avatar": "https://avatars.githubusercontent.com/u/4787225?v=4",
+          "url": "https://github.com/rsto",
+          "contributions": 14,
+          "percentage": 0.91
+        },
+        {
+          "username": "mpvl",
+          "avatar": "https://avatars.githubusercontent.com/u/6445383?v=4",
+          "url": "https://github.com/mpvl",
+          "contributions": 12,
+          "percentage": 0.78
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 12,
+          "percentage": 0.78
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 10,
+          "percentage": 0.65
+        },
+        {
+          "username": "iangudger",
+          "avatar": "https://avatars.githubusercontent.com/u/7056530?v=4",
+          "url": "https://github.com/iangudger",
+          "contributions": 10,
+          "percentage": 0.65
+        },
+        {
+          "username": "mdlayher",
+          "avatar": "https://avatars.githubusercontent.com/u/1926905?v=4",
+          "url": "https://github.com/mdlayher",
+          "contributions": 10,
+          "percentage": 0.65
+        },
+        {
+          "username": "Sajmani",
+          "avatar": "https://avatars.githubusercontent.com/u/9734877?v=4",
+          "url": "https://github.com/Sajmani",
+          "contributions": 10,
+          "percentage": 0.65
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 9,
+          "percentage": 0.58
+        },
+        {
+          "username": "okdave",
+          "avatar": "https://avatars.githubusercontent.com/u/1091335?v=4",
+          "url": "https://github.com/okdave",
+          "contributions": 8,
+          "percentage": 0.52
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 8,
+          "percentage": 0.52
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 7,
+          "percentage": 0.45
+        },
+        {
+          "username": "gopherbot",
+          "avatar": "https://avatars.githubusercontent.com/u/8566911?v=4",
+          "url": "https://github.com/gopherbot",
+          "contributions": 6,
+          "percentage": 0.39
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 5,
+          "percentage": 0.32
+        },
+        {
+          "username": "ukai",
+          "avatar": "https://avatars.githubusercontent.com/u/1037513?v=4",
+          "url": "https://github.com/ukai",
+          "contributions": 5,
+          "percentage": 0.32
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 5,
+          "percentage": 0.32
+        },
+        {
+          "username": "breml",
+          "avatar": "https://avatars.githubusercontent.com/u/6205217?v=4",
+          "url": "https://github.com/breml",
+          "contributions": 5,
+          "percentage": 0.32
+        }
+      ],
+      "totalContributions": 1540
+    },
+    {
+      "org": "golang",
+      "repo": "sys",
+      "url": "https://github.com/golang/sys",
+      "contributors": [
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 556,
+          "percentage": 49.87
+        },
+        {
+          "username": "zx2c4",
+          "avatar": "https://avatars.githubusercontent.com/u/10643?v=4",
+          "url": "https://github.com/zx2c4",
+          "contributions": 119,
+          "percentage": 10.67
+        },
+        {
+          "username": "mdlayher",
+          "avatar": "https://avatars.githubusercontent.com/u/1926905?v=4",
+          "url": "https://github.com/mdlayher",
+          "contributions": 64,
+          "percentage": 5.74
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 49,
+          "percentage": 4.39
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 40,
+          "percentage": 3.59
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 33,
+          "percentage": 2.96
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 31,
+          "percentage": 2.78
+        },
+        {
+          "username": "4a6f656c",
+          "avatar": "https://avatars.githubusercontent.com/u/8142769?v=4",
+          "url": "https://github.com/4a6f656c",
+          "contributions": 24,
+          "percentage": 2.15
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 18,
+          "percentage": 1.61
+        },
+        {
+          "username": "nshalman",
+          "avatar": "https://avatars.githubusercontent.com/u/20391?v=4",
+          "url": "https://github.com/nshalman",
+          "contributions": 15,
+          "percentage": 1.35
+        },
+        {
+          "username": "atetubou",
+          "avatar": "https://avatars.githubusercontent.com/u/2410354?v=4",
+          "url": "https://github.com/atetubou",
+          "contributions": 15,
+          "percentage": 1.35
+        },
+        {
+          "username": "randall77",
+          "avatar": "https://avatars.githubusercontent.com/u/6889504?v=4",
+          "url": "https://github.com/randall77",
+          "contributions": 14,
+          "percentage": 1.26
+        },
+        {
+          "username": "viswesr",
+          "avatar": "https://avatars.githubusercontent.com/u/682881?v=4",
+          "url": "https://github.com/viswesr",
+          "contributions": 12,
+          "percentage": 1.08
+        },
+        {
+          "username": "kolyshkin",
+          "avatar": "https://avatars.githubusercontent.com/u/4522509?v=4",
+          "url": "https://github.com/kolyshkin",
+          "contributions": 11,
+          "percentage": 0.99
+        },
+        {
+          "username": "cixtor",
+          "avatar": "https://avatars.githubusercontent.com/u/1933999?v=4",
+          "url": "https://github.com/cixtor",
+          "contributions": 10,
+          "percentage": 0.9
+        },
+        {
+          "username": "paulzhol",
+          "avatar": "https://avatars.githubusercontent.com/u/2056981?v=4",
+          "url": "https://github.com/paulzhol",
+          "contributions": 10,
+          "percentage": 0.9
+        },
+        {
+          "username": "josephlr",
+          "avatar": "https://avatars.githubusercontent.com/u/5506060?v=4",
+          "url": "https://github.com/josephlr",
+          "contributions": 10,
+          "percentage": 0.9
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 8,
+          "percentage": 0.72
+        },
+        {
+          "username": "florianl",
+          "avatar": "https://avatars.githubusercontent.com/u/1132494?v=4",
+          "url": "https://github.com/florianl",
+          "contributions": 8,
+          "percentage": 0.72
+        },
+        {
+          "username": "jupj",
+          "avatar": "https://avatars.githubusercontent.com/u/981988?v=4",
+          "url": "https://github.com/jupj",
+          "contributions": 7,
+          "percentage": 0.63
+        },
+        {
+          "username": "zchee",
+          "avatar": "https://avatars.githubusercontent.com/u/6366270?v=4",
+          "url": "https://github.com/zchee",
+          "contributions": 7,
+          "percentage": 0.63
+        },
+        {
+          "username": "jacobsa",
+          "avatar": "https://avatars.githubusercontent.com/u/202895?v=4",
+          "url": "https://github.com/jacobsa",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "dmgk",
+          "avatar": "https://avatars.githubusercontent.com/u/5332688?v=4",
+          "url": "https://github.com/dmgk",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "ericlagergren",
+          "avatar": "https://avatars.githubusercontent.com/u/5894247?v=4",
+          "url": "https://github.com/ericlagergren",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "mengzhuo",
+          "avatar": "https://avatars.githubusercontent.com/u/885662?v=4",
+          "url": "https://github.com/mengzhuo",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "tamird",
+          "avatar": "https://avatars.githubusercontent.com/u/1535036?v=4",
+          "url": "https://github.com/tamird",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "kortschak",
+          "avatar": "https://avatars.githubusercontent.com/u/275221?v=4",
+          "url": "https://github.com/kortschak",
+          "contributions": 6,
+          "percentage": 0.54
+        },
+        {
+          "username": "EdSchouten",
+          "avatar": "https://avatars.githubusercontent.com/u/736085?v=4",
+          "url": "https://github.com/EdSchouten",
+          "contributions": 6,
+          "percentage": 0.54
+        }
+      ],
+      "totalContributions": 1115
+    },
+    {
+      "org": "golang",
+      "repo": "exp",
+      "url": "https://github.com/golang/exp",
+      "contributors": [
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 198,
+          "percentage": 22.6
+        },
+        {
+          "username": "jba",
+          "avatar": "https://avatars.githubusercontent.com/u/18483045?v=4",
+          "url": "https://github.com/jba",
+          "contributions": 196,
+          "percentage": 22.37
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 48,
+          "percentage": 5.48
+        },
+        {
+          "username": "zpavlinovic",
+          "avatar": "https://avatars.githubusercontent.com/u/874540?v=4",
+          "url": "https://github.com/zpavlinovic",
+          "contributions": 46,
+          "percentage": 5.25
+        },
+        {
+          "username": "mpvl",
+          "avatar": "https://avatars.githubusercontent.com/u/6445383?v=4",
+          "url": "https://github.com/mpvl",
+          "contributions": 43,
+          "percentage": 4.91
+        },
+        {
+          "username": "ianthehat",
+          "avatar": "https://avatars.githubusercontent.com/u/858832?v=4",
+          "url": "https://github.com/ianthehat",
+          "contributions": 42,
+          "percentage": 4.79
+        },
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 38,
+          "percentage": 4.34
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 35,
+          "percentage": 4
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 34,
+          "percentage": 3.88
+        },
+        {
+          "username": "griesemer",
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?v=4",
+          "url": "https://github.com/griesemer",
+          "contributions": 24,
+          "percentage": 2.74
+        },
+        {
+          "username": "jadekler",
+          "avatar": "https://avatars.githubusercontent.com/u/3584893?v=4",
+          "url": "https://github.com/jadekler",
+          "contributions": 23,
+          "percentage": 2.63
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 19,
+          "percentage": 2.17
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 16,
+          "percentage": 1.83
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 16,
+          "percentage": 1.83
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 14,
+          "percentage": 1.6
+        },
+        {
+          "username": "adonovan",
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?v=4",
+          "url": "https://github.com/adonovan",
+          "contributions": 9,
+          "percentage": 1.03
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 9,
+          "percentage": 1.03
+        },
+        {
+          "username": "aarzilli",
+          "avatar": "https://avatars.githubusercontent.com/u/303620?v=4",
+          "url": "https://github.com/aarzilli",
+          "contributions": 9,
+          "percentage": 1.03
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 7,
+          "percentage": 0.8
+        },
+        {
+          "username": "jnjackins",
+          "avatar": "https://avatars.githubusercontent.com/u/449232?v=4",
+          "url": "https://github.com/jnjackins",
+          "contributions": 6,
+          "percentage": 0.68
+        },
+        {
+          "username": "rolandshoemaker",
+          "avatar": "https://avatars.githubusercontent.com/u/5080674?v=4",
+          "url": "https://github.com/rolandshoemaker",
+          "contributions": 6,
+          "percentage": 0.68
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 5,
+          "percentage": 0.57
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 5,
+          "percentage": 0.57
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "howeyc",
+          "avatar": "https://avatars.githubusercontent.com/u/1114329?v=4",
+          "url": "https://github.com/howeyc",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "andlabs",
+          "avatar": "https://avatars.githubusercontent.com/u/718242?v=4",
+          "url": "https://github.com/andlabs",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "Deleplace",
+          "avatar": "https://avatars.githubusercontent.com/u/13508141?v=4",
+          "url": "https://github.com/Deleplace",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "mattn",
+          "avatar": "https://avatars.githubusercontent.com/u/10111?v=4",
+          "url": "https://github.com/mattn",
+          "contributions": 4,
+          "percentage": 0.46
+        }
+      ],
+      "totalContributions": 876
+    },
+    {
+      "org": "golang",
+      "repo": "mobile",
+      "url": "https://github.com/golang/mobile",
+      "contributors": [
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 269,
+          "percentage": 31.03
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 200,
+          "percentage": 23.07
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 128,
+          "percentage": 14.76
+        },
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 87,
+          "percentage": 10.03
+        },
+        {
+          "username": "hajimehoshi",
+          "avatar": "https://avatars.githubusercontent.com/u/16950?v=4",
+          "url": "https://github.com/hajimehoshi",
+          "contributions": 50,
+          "percentage": 5.77
+        },
+        {
+          "username": "dskinner",
+          "avatar": "https://avatars.githubusercontent.com/u/92266?v=4",
+          "url": "https://github.com/dskinner",
+          "contributions": 19,
+          "percentage": 2.19
+        },
+        {
+          "username": "eliasnaur",
+          "avatar": "https://avatars.githubusercontent.com/u/524812?v=4",
+          "url": "https://github.com/eliasnaur",
+          "contributions": 19,
+          "percentage": 2.19
+        },
+        {
+          "username": "changkun",
+          "avatar": "https://avatars.githubusercontent.com/u/5498964?v=4",
+          "url": "https://github.com/changkun",
+          "contributions": 18,
+          "percentage": 2.08
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 6,
+          "percentage": 0.69
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 6,
+          "percentage": 0.69
+        },
+        {
+          "username": "karalabe",
+          "avatar": "https://avatars.githubusercontent.com/u/129561?v=4",
+          "url": "https://github.com/karalabe",
+          "contributions": 6,
+          "percentage": 0.69
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 6,
+          "percentage": 0.69
+        },
+        {
+          "username": "tadovas",
+          "avatar": "https://avatars.githubusercontent.com/u/1046590?v=4",
+          "url": "https://github.com/tadovas",
+          "contributions": 5,
+          "percentage": 0.58
+        },
+        {
+          "username": "meirf",
+          "avatar": "https://avatars.githubusercontent.com/u/2043305?v=4",
+          "url": "https://github.com/meirf",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 4,
+          "percentage": 0.46
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "egonelbre",
+          "avatar": "https://avatars.githubusercontent.com/u/192964?v=4",
+          "url": "https://github.com/egonelbre",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "champo",
+          "avatar": "https://avatars.githubusercontent.com/u/202728?v=4",
+          "url": "https://github.com/champo",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "ydnar",
+          "avatar": "https://avatars.githubusercontent.com/u/34146?v=4",
+          "url": "https://github.com/ydnar",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "robaho",
+          "avatar": "https://avatars.githubusercontent.com/u/4958833?v=4",
+          "url": "https://github.com/robaho",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 3,
+          "percentage": 0.35
+        },
+        {
+          "username": "dopsilva",
+          "avatar": "https://avatars.githubusercontent.com/u/1541125?v=4",
+          "url": "https://github.com/dopsilva",
+          "contributions": 2,
+          "percentage": 0.23
+        },
+        {
+          "username": "db47h",
+          "avatar": "https://avatars.githubusercontent.com/u/879556?v=4",
+          "url": "https://github.com/db47h",
+          "contributions": 2,
+          "percentage": 0.23
+        },
+        {
+          "username": "gordonklaus",
+          "avatar": "https://avatars.githubusercontent.com/u/1638352?v=4",
+          "url": "https://github.com/gordonklaus",
+          "contributions": 2,
+          "percentage": 0.23
+        },
+        {
+          "username": "yjh0502",
+          "avatar": "https://avatars.githubusercontent.com/u/554344?v=4",
+          "url": "https://github.com/yjh0502",
+          "contributions": 2,
+          "percentage": 0.23
+        },
+        {
+          "username": "i9",
+          "avatar": "https://avatars.githubusercontent.com/u/517443?v=4",
+          "url": "https://github.com/i9",
+          "contributions": 2,
+          "percentage": 0.23
+        },
+        {
+          "username": "kruffin",
+          "avatar": "https://avatars.githubusercontent.com/u/917903?v=4",
+          "url": "https://github.com/kruffin",
+          "contributions": 2,
+          "percentage": 0.23
+        }
+      ],
+      "totalContributions": 867
+    },
+    {
+      "org": "golang",
+      "repo": "protobuf",
+      "url": "https://github.com/golang/protobuf",
+      "contributors": [
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 320,
+          "percentage": 44.08
+        },
+        {
+          "username": "dsnet",
+          "avatar": "https://avatars.githubusercontent.com/u/6354026?v=4",
+          "url": "https://github.com/dsnet",
+          "contributions": 157,
+          "percentage": 21.63
+        },
+        {
+          "username": "neild",
+          "avatar": "https://avatars.githubusercontent.com/u/52544?v=4",
+          "url": "https://github.com/neild",
+          "contributions": 87,
+          "percentage": 11.98
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 55,
+          "percentage": 7.58
+        },
+        {
+          "username": "zombiezen",
+          "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+          "url": "https://github.com/zombiezen",
+          "contributions": 16,
+          "percentage": 2.2
+        },
+        {
+          "username": "cybrcodr",
+          "avatar": "https://avatars.githubusercontent.com/u/1845151?v=4",
+          "url": "https://github.com/cybrcodr",
+          "contributions": 12,
+          "percentage": 1.65
+        },
+        {
+          "username": "jhump",
+          "avatar": "https://avatars.githubusercontent.com/u/2035234?v=4",
+          "url": "https://github.com/jhump",
+          "contributions": 10,
+          "percentage": 1.38
+        },
+        {
+          "username": "tamird",
+          "avatar": "https://avatars.githubusercontent.com/u/1535036?v=4",
+          "url": "https://github.com/tamird",
+          "contributions": 8,
+          "percentage": 1.1
+        },
+        {
+          "username": "matloob",
+          "avatar": "https://avatars.githubusercontent.com/u/16470053?v=4",
+          "url": "https://github.com/matloob",
+          "contributions": 8,
+          "percentage": 1.1
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 8,
+          "percentage": 1.1
+        },
+        {
+          "username": "LMMilewski",
+          "avatar": "https://avatars.githubusercontent.com/u/462746?v=4",
+          "url": "https://github.com/LMMilewski",
+          "contributions": 6,
+          "percentage": 0.83
+        },
+        {
+          "username": "carl-mastrangelo",
+          "avatar": "https://avatars.githubusercontent.com/u/8943572?v=4",
+          "url": "https://github.com/carl-mastrangelo",
+          "contributions": 5,
+          "percentage": 0.69
+        },
+        {
+          "username": "okdave",
+          "avatar": "https://avatars.githubusercontent.com/u/1091335?v=4",
+          "url": "https://github.com/okdave",
+          "contributions": 4,
+          "percentage": 0.55
+        },
+        {
+          "username": "dfawley",
+          "avatar": "https://avatars.githubusercontent.com/u/26072277?v=4",
+          "url": "https://github.com/dfawley",
+          "contributions": 4,
+          "percentage": 0.55
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 3,
+          "percentage": 0.41
+        },
+        {
+          "username": "quasilyte",
+          "avatar": "https://avatars.githubusercontent.com/u/6286655?v=4",
+          "url": "https://github.com/quasilyte",
+          "contributions": 3,
+          "percentage": 0.41
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "taralx",
+          "avatar": "https://avatars.githubusercontent.com/u/1036808?v=4",
+          "url": "https://github.com/taralx",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "abbot",
+          "avatar": "https://avatars.githubusercontent.com/u/5857?v=4",
+          "url": "https://github.com/abbot",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "menghanl",
+          "avatar": "https://avatars.githubusercontent.com/u/960845?v=4",
+          "url": "https://github.com/menghanl",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "mkrautz",
+          "avatar": "https://avatars.githubusercontent.com/u/36527?v=4",
+          "url": "https://github.com/mkrautz",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 2,
+          "percentage": 0.28
+        },
+        {
+          "username": "Aaronong",
+          "avatar": "https://avatars.githubusercontent.com/u/11691740?v=4",
+          "url": "https://github.com/Aaronong",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "agl",
+          "avatar": "https://avatars.githubusercontent.com/u/21203?v=4",
+          "url": "https://github.com/agl",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "alberts",
+          "avatar": "https://avatars.githubusercontent.com/u/409689?v=4",
+          "url": "https://github.com/alberts",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "alexrudd",
+          "avatar": "https://avatars.githubusercontent.com/u/3588652?v=4",
+          "url": "https://github.com/alexrudd",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "awbraunstein",
+          "avatar": "https://avatars.githubusercontent.com/u/416542?v=4",
+          "url": "https://github.com/awbraunstein",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "jeanlucmongrain",
+          "avatar": "https://avatars.githubusercontent.com/u/474302?v=4",
+          "url": "https://github.com/jeanlucmongrain",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "bryanpkc",
+          "avatar": "https://avatars.githubusercontent.com/u/7143326?v=4",
+          "url": "https://github.com/bryanpkc",
+          "contributions": 1,
+          "percentage": 0.14
+        },
+        {
+          "username": "sir-buckyball",
+          "avatar": "https://avatars.githubusercontent.com/u/1843109?v=4",
+          "url": "https://github.com/sir-buckyball",
+          "contributions": 1,
+          "percentage": 0.14
+        }
+      ],
+      "totalContributions": 726
+    },
+    {
+      "org": "golang",
+      "repo": "text",
+      "url": "https://github.com/golang/text",
+      "contributors": [
+        {
+          "username": "mpvl",
+          "avatar": "https://avatars.githubusercontent.com/u/6445383?v=4",
+          "url": "https://github.com/mpvl",
+          "contributions": 516,
+          "percentage": 77.95
+        },
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 45,
+          "percentage": 6.8
+        },
+        {
+          "username": "SamWhited",
+          "avatar": "https://avatars.githubusercontent.com/u/512573?v=4",
+          "url": "https://github.com/SamWhited",
+          "contributions": 22,
+          "percentage": 3.32
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 8,
+          "percentage": 1.21
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 7,
+          "percentage": 1.06
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 6,
+          "percentage": 0.91
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 6,
+          "percentage": 0.91
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 5,
+          "percentage": 0.76
+        },
+        {
+          "username": "neild",
+          "avatar": "https://avatars.githubusercontent.com/u/52544?v=4",
+          "url": "https://github.com/neild",
+          "contributions": 4,
+          "percentage": 0.6
+        },
+        {
+          "username": "ameowlia",
+          "avatar": "https://avatars.githubusercontent.com/u/7025605?v=4",
+          "url": "https://github.com/ameowlia",
+          "contributions": 3,
+          "percentage": 0.45
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 3,
+          "percentage": 0.45
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 3,
+          "percentage": 0.45
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 3,
+          "percentage": 0.45
+        },
+        {
+          "username": "TimothyGu",
+          "avatar": "https://avatars.githubusercontent.com/u/1538624?v=4",
+          "url": "https://github.com/TimothyGu",
+          "contributions": 3,
+          "percentage": 0.45
+        },
+        {
+          "username": "AlexanderYastrebov",
+          "avatar": "https://avatars.githubusercontent.com/u/697976?v=4",
+          "url": "https://github.com/AlexanderYastrebov",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "andybalholm",
+          "avatar": "https://avatars.githubusercontent.com/u/868908?v=4",
+          "url": "https://github.com/andybalholm",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "rdingwall",
+          "avatar": "https://avatars.githubusercontent.com/u/170019?v=4",
+          "url": "https://github.com/rdingwall",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "shawnps",
+          "avatar": "https://avatars.githubusercontent.com/u/80111?v=4",
+          "url": "https://github.com/shawnps",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "rozmansi",
+          "avatar": "https://avatars.githubusercontent.com/u/6889694?v=4",
+          "url": "https://github.com/rozmansi",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "vdobler",
+          "avatar": "https://avatars.githubusercontent.com/u/701382?v=4",
+          "url": "https://github.com/vdobler",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "mattn",
+          "avatar": "https://avatars.githubusercontent.com/u/10111?v=4",
+          "url": "https://github.com/mattn",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "rolandshoemaker",
+          "avatar": "https://avatars.githubusercontent.com/u/5080674?v=4",
+          "url": "https://github.com/rolandshoemaker",
+          "contributions": 2,
+          "percentage": 0.3
+        },
+        {
+          "username": "80nashi",
+          "avatar": "https://avatars.githubusercontent.com/u/5784433?v=4",
+          "url": "https://github.com/80nashi",
+          "contributions": 1,
+          "percentage": 0.15
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 1,
+          "percentage": 0.15
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 1,
+          "percentage": 0.15
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 1,
+          "percentage": 0.15
+        }
+      ],
+      "totalContributions": 662
+    },
+    {
+      "org": "golang",
+      "repo": "crypto",
+      "url": "https://github.com/golang/crypto",
+      "contributors": [
+        {
+          "username": "agl",
+          "avatar": "https://avatars.githubusercontent.com/u/21203?v=4",
+          "url": "https://github.com/agl",
+          "contributions": 108,
+          "percentage": 17.5
+        },
+        {
+          "username": "hanwen",
+          "avatar": "https://avatars.githubusercontent.com/u/31547?v=4",
+          "url": "https://github.com/hanwen",
+          "contributions": 103,
+          "percentage": 16.69
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 70,
+          "percentage": 11.35
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 41,
+          "percentage": 6.65
+        },
+        {
+          "username": "rolandshoemaker",
+          "avatar": "https://avatars.githubusercontent.com/u/5080674?v=4",
+          "url": "https://github.com/rolandshoemaker",
+          "contributions": 28,
+          "percentage": 4.54
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 27,
+          "percentage": 4.38
+        },
+        {
+          "username": "aead",
+          "avatar": "https://avatars.githubusercontent.com/u/20368805?v=4",
+          "url": "https://github.com/aead",
+          "contributions": 26,
+          "percentage": 4.21
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 19,
+          "percentage": 3.08
+        },
+        {
+          "username": "mundaym",
+          "avatar": "https://avatars.githubusercontent.com/u/15000766?v=4",
+          "url": "https://github.com/mundaym",
+          "contributions": 18,
+          "percentage": 2.92
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 17,
+          "percentage": 2.76
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 13,
+          "percentage": 2.11
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 13,
+          "percentage": 2.11
+        },
+        {
+          "username": "x1ddos",
+          "avatar": "https://avatars.githubusercontent.com/u/25405?v=4",
+          "url": "https://github.com/x1ddos",
+          "contributions": 12,
+          "percentage": 1.94
+        },
+        {
+          "username": "aclements",
+          "avatar": "https://avatars.githubusercontent.com/u/2688315?v=4",
+          "url": "https://github.com/aclements",
+          "contributions": 11,
+          "percentage": 1.78
+        },
+        {
+          "username": "jonathanpittman",
+          "avatar": "https://avatars.githubusercontent.com/u/5358280?v=4",
+          "url": "https://github.com/jonathanpittman",
+          "contributions": 10,
+          "percentage": 1.62
+        },
+        {
+          "username": "katiehockman",
+          "avatar": "https://avatars.githubusercontent.com/u/28789760?v=4",
+          "url": "https://github.com/katiehockman",
+          "contributions": 10,
+          "percentage": 1.62
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 9,
+          "percentage": 1.46
+        },
+        {
+          "username": "kardianos",
+          "avatar": "https://avatars.githubusercontent.com/u/755121?v=4",
+          "url": "https://github.com/kardianos",
+          "contributions": 7,
+          "percentage": 1.13
+        },
+        {
+          "username": "dchest",
+          "avatar": "https://avatars.githubusercontent.com/u/52677?v=4",
+          "url": "https://github.com/dchest",
+          "contributions": 7,
+          "percentage": 1.13
+        },
+        {
+          "username": "dmitris",
+          "avatar": "https://avatars.githubusercontent.com/u/31205?v=4",
+          "url": "https://github.com/dmitris",
+          "contributions": 7,
+          "percentage": 1.13
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 7,
+          "percentage": 1.13
+        },
+        {
+          "username": "cixtor",
+          "avatar": "https://avatars.githubusercontent.com/u/1933999?v=4",
+          "url": "https://github.com/cixtor",
+          "contributions": 7,
+          "percentage": 1.13
+        },
+        {
+          "username": "marete",
+          "avatar": "https://avatars.githubusercontent.com/u/2327361?v=4",
+          "url": "https://github.com/marete",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "cmars",
+          "avatar": "https://avatars.githubusercontent.com/u/23741?v=4",
+          "url": "https://github.com/cmars",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "gopherbot",
+          "avatar": "https://avatars.githubusercontent.com/u/8566911?v=4",
+          "url": "https://github.com/gopherbot",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "mattn",
+          "avatar": "https://avatars.githubusercontent.com/u/10111?v=4",
+          "url": "https://github.com/mattn",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "aviau",
+          "avatar": "https://avatars.githubusercontent.com/u/2706882?v=4",
+          "url": "https://github.com/aviau",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 6,
+          "percentage": 0.97
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 5,
+          "percentage": 0.81
+        }
+      ],
+      "totalContributions": 617
+    },
+    {
+      "org": "golang",
+      "repo": "gddo",
+      "url": "https://github.com/golang/gddo",
+      "contributors": [
+        {
+          "username": "garyburd",
+          "avatar": "https://avatars.githubusercontent.com/u/33411?v=4",
+          "url": "https://github.com/garyburd",
+          "contributions": 119,
+          "percentage": 25.48
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 90,
+          "percentage": 19.27
+        },
+        {
+          "username": "shantuo",
+          "avatar": "https://avatars.githubusercontent.com/u/8689543?v=4",
+          "url": "https://github.com/shantuo",
+          "contributions": 54,
+          "percentage": 11.56
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 41,
+          "percentage": 8.78
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 27,
+          "percentage": 5.78
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 22,
+          "percentage": 4.71
+        },
+        {
+          "username": "zombiezen",
+          "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+          "url": "https://github.com/zombiezen",
+          "contributions": 14,
+          "percentage": 3
+        },
+        {
+          "username": "stephenmw",
+          "avatar": "https://avatars.githubusercontent.com/u/231788?v=4",
+          "url": "https://github.com/stephenmw",
+          "contributions": 12,
+          "percentage": 2.57
+        },
+        {
+          "username": "mipearson",
+          "avatar": "https://avatars.githubusercontent.com/u/97317?v=4",
+          "url": "https://github.com/mipearson",
+          "contributions": 10,
+          "percentage": 2.14
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 9,
+          "percentage": 1.93
+        },
+        {
+          "username": "nf",
+          "avatar": "https://avatars.githubusercontent.com/u/74661?v=4",
+          "url": "https://github.com/nf",
+          "contributions": 9,
+          "percentage": 1.93
+        },
+        {
+          "username": "nathany",
+          "avatar": "https://avatars.githubusercontent.com/u/4566?v=4",
+          "url": "https://github.com/nathany",
+          "contributions": 8,
+          "percentage": 1.71
+        },
+        {
+          "username": "mcuadros",
+          "avatar": "https://avatars.githubusercontent.com/u/1573114?v=4",
+          "url": "https://github.com/mcuadros",
+          "contributions": 6,
+          "percentage": 1.28
+        },
+        {
+          "username": "LaPingvino",
+          "avatar": "https://avatars.githubusercontent.com/u/10294?v=4",
+          "url": "https://github.com/LaPingvino",
+          "contributions": 6,
+          "percentage": 1.28
+        },
+        {
+          "username": "boxofrad",
+          "avatar": "https://avatars.githubusercontent.com/u/580803?v=4",
+          "url": "https://github.com/boxofrad",
+          "contributions": 5,
+          "percentage": 1.07
+        },
+        {
+          "username": "cybrcodr",
+          "avatar": "https://avatars.githubusercontent.com/u/1845151?v=4",
+          "url": "https://github.com/cybrcodr",
+          "contributions": 5,
+          "percentage": 1.07
+        },
+        {
+          "username": "shaqque",
+          "avatar": "https://avatars.githubusercontent.com/u/20341447?v=4",
+          "url": "https://github.com/shaqque",
+          "contributions": 5,
+          "percentage": 1.07
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 3,
+          "percentage": 0.64
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "leighmcculloch",
+          "avatar": "https://avatars.githubusercontent.com/u/351529?v=4",
+          "url": "https://github.com/leighmcculloch",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "arp242",
+          "avatar": "https://avatars.githubusercontent.com/u/1032692?v=4",
+          "url": "https://github.com/arp242",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "mdlayher",
+          "avatar": "https://avatars.githubusercontent.com/u/1926905?v=4",
+          "url": "https://github.com/mdlayher",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "rjeczalik",
+          "avatar": "https://avatars.githubusercontent.com/u/1162017?v=4",
+          "url": "https://github.com/rjeczalik",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "stevenwilkin",
+          "avatar": "https://avatars.githubusercontent.com/u/45121?v=4",
+          "url": "https://github.com/stevenwilkin",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "suriyaa",
+          "avatar": "https://avatars.githubusercontent.com/u/5073946?v=4",
+          "url": "https://github.com/suriyaa",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "mihasya",
+          "avatar": "https://avatars.githubusercontent.com/u/22596?v=4",
+          "url": "https://github.com/mihasya",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 2,
+          "percentage": 0.43
+        },
+        {
+          "username": "aishraj",
+          "avatar": "https://avatars.githubusercontent.com/u/696410?v=4",
+          "url": "https://github.com/aishraj",
+          "contributions": 1,
+          "percentage": 0.21
+        },
+        {
+          "username": "yukinying",
+          "avatar": "https://avatars.githubusercontent.com/u/1326727?v=4",
+          "url": "https://github.com/yukinying",
+          "contributions": 1,
+          "percentage": 0.21
+        }
+      ],
+      "totalContributions": 467
+    },
+    {
+      "org": "golang",
+      "repo": "blog",
+      "url": "https://github.com/golang/blog",
+      "contributors": [
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 114,
+          "percentage": 27.21
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 71,
+          "percentage": 16.95
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 37,
+          "percentage": 8.83
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 26,
+          "percentage": 6.21
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 16,
+          "percentage": 3.82
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 15,
+          "percentage": 3.58
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 13,
+          "percentage": 3.1
+        },
+        {
+          "username": "spf13",
+          "avatar": "https://avatars.githubusercontent.com/u/173412?v=4",
+          "url": "https://github.com/spf13",
+          "contributions": 12,
+          "percentage": 2.86
+        },
+        {
+          "username": "Sajmani",
+          "avatar": "https://avatars.githubusercontent.com/u/9734877?v=4",
+          "url": "https://github.com/Sajmani",
+          "contributions": 10,
+          "percentage": 2.39
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 8,
+          "percentage": 1.91
+        },
+        {
+          "username": "ianlancetaylor",
+          "avatar": "https://avatars.githubusercontent.com/u/3194333?v=4",
+          "url": "https://github.com/ianlancetaylor",
+          "contributions": 8,
+          "percentage": 1.91
+        },
+        {
+          "username": "jadekler",
+          "avatar": "https://avatars.githubusercontent.com/u/3584893?v=4",
+          "url": "https://github.com/jadekler",
+          "contributions": 8,
+          "percentage": 1.91
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 8,
+          "percentage": 1.91
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 7,
+          "percentage": 1.67
+        },
+        {
+          "username": "katiehockman",
+          "avatar": "https://avatars.githubusercontent.com/u/28789760?v=4",
+          "url": "https://github.com/katiehockman",
+          "contributions": 6,
+          "percentage": 1.43
+        },
+        {
+          "username": "stamblerre",
+          "avatar": "https://avatars.githubusercontent.com/u/5856771?v=4",
+          "url": "https://github.com/stamblerre",
+          "contributions": 6,
+          "percentage": 1.43
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 6,
+          "percentage": 1.43
+        },
+        {
+          "username": "mpvl",
+          "avatar": "https://avatars.githubusercontent.com/u/6445383?v=4",
+          "url": "https://github.com/mpvl",
+          "contributions": 5,
+          "percentage": 1.19
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "enocom",
+          "avatar": "https://avatars.githubusercontent.com/u/1175430?v=4",
+          "url": "https://github.com/enocom",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "RLH",
+          "avatar": "https://avatars.githubusercontent.com/u/972447?v=4",
+          "url": "https://github.com/RLH",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "griesemer",
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?v=4",
+          "url": "https://github.com/griesemer",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "fflewddur",
+          "avatar": "https://avatars.githubusercontent.com/u/5544445?v=4",
+          "url": "https://github.com/fflewddur",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "shuLhan",
+          "avatar": "https://avatars.githubusercontent.com/u/43306?v=4",
+          "url": "https://github.com/shuLhan",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "tbpg",
+          "avatar": "https://avatars.githubusercontent.com/u/26876514?v=4",
+          "url": "https://github.com/tbpg",
+          "contributions": 4,
+          "percentage": 0.95
+        },
+        {
+          "username": "agnivade",
+          "avatar": "https://avatars.githubusercontent.com/u/1774000?v=4",
+          "url": "https://github.com/agnivade",
+          "contributions": 3,
+          "percentage": 0.72
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 3,
+          "percentage": 0.72
+        },
+        {
+          "username": "jba",
+          "avatar": "https://avatars.githubusercontent.com/u/18483045?v=4",
+          "url": "https://github.com/jba",
+          "contributions": 3,
+          "percentage": 0.72
+        },
+        {
+          "username": "nathany",
+          "avatar": "https://avatars.githubusercontent.com/u/4566?v=4",
+          "url": "https://github.com/nathany",
+          "contributions": 3,
+          "percentage": 0.72
+        },
+        {
+          "username": "mewmew",
+          "avatar": "https://avatars.githubusercontent.com/u/1414531?v=4",
+          "url": "https://github.com/mewmew",
+          "contributions": 3,
+          "percentage": 0.72
+        }
+      ],
+      "totalContributions": 419
+    },
+    {
+      "org": "golang",
+      "repo": "tour",
+      "url": "https://github.com/golang/tour",
+      "contributors": [
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 179,
+          "percentage": 46.86
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 62,
+          "percentage": 16.23
+        },
+        {
+          "username": "kytrinyx",
+          "avatar": "https://avatars.githubusercontent.com/u/276834?v=4",
+          "url": "https://github.com/kytrinyx",
+          "contributions": 34,
+          "percentage": 8.9
+        },
+        {
+          "username": "ALTree",
+          "avatar": "https://avatars.githubusercontent.com/u/3586803?v=4",
+          "url": "https://github.com/ALTree",
+          "contributions": 19,
+          "percentage": 4.97
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 15,
+          "percentage": 3.93
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 12,
+          "percentage": 3.14
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 8,
+          "percentage": 2.09
+        },
+        {
+          "username": "chai2010",
+          "avatar": "https://avatars.githubusercontent.com/u/2295542?v=4",
+          "url": "https://github.com/chai2010",
+          "contributions": 5,
+          "percentage": 1.31
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 5,
+          "percentage": 1.31
+        },
+        {
+          "username": "andrewaustin",
+          "avatar": "https://avatars.githubusercontent.com/u/166746?v=4",
+          "url": "https://github.com/andrewaustin",
+          "contributions": 3,
+          "percentage": 0.79
+        },
+        {
+          "username": "bgadrian",
+          "avatar": "https://avatars.githubusercontent.com/u/830001?v=4",
+          "url": "https://github.com/bgadrian",
+          "contributions": 3,
+          "percentage": 0.79
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 3,
+          "percentage": 0.79
+        },
+        {
+          "username": "dupoxy",
+          "avatar": "https://avatars.githubusercontent.com/u/1143957?v=4",
+          "url": "https://github.com/dupoxy",
+          "contributions": 3,
+          "percentage": 0.79
+        },
+        {
+          "username": "robphoenix",
+          "avatar": "https://avatars.githubusercontent.com/u/9257284?v=4",
+          "url": "https://github.com/robphoenix",
+          "contributions": 3,
+          "percentage": 0.79
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "tux21b",
+          "avatar": "https://avatars.githubusercontent.com/u/125986?v=4",
+          "url": "https://github.com/tux21b",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "katiehockman",
+          "avatar": "https://avatars.githubusercontent.com/u/28789760?v=4",
+          "url": "https://github.com/katiehockman",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "martinkunc",
+          "avatar": "https://avatars.githubusercontent.com/u/5441732?v=4",
+          "url": "https://github.com/martinkunc",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "kortschak",
+          "avatar": "https://avatars.githubusercontent.com/u/275221?v=4",
+          "url": "https://github.com/kortschak",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "Sajmani",
+          "avatar": "https://avatars.githubusercontent.com/u/9734877?v=4",
+          "url": "https://github.com/Sajmani",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "mikespook",
+          "avatar": "https://avatars.githubusercontent.com/u/675230?v=4",
+          "url": "https://github.com/mikespook",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "ykzts",
+          "avatar": "https://avatars.githubusercontent.com/u/12539?v=4",
+          "url": "https://github.com/ykzts",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "zorion",
+          "avatar": "https://avatars.githubusercontent.com/u/2223495?v=4",
+          "url": "https://github.com/zorion",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 2,
+          "percentage": 0.52
+        },
+        {
+          "username": "alebaffa",
+          "avatar": "https://avatars.githubusercontent.com/u/465513?v=4",
+          "url": "https://github.com/alebaffa",
+          "contributions": 1,
+          "percentage": 0.26
+        },
+        {
+          "username": "b10s",
+          "avatar": "https://avatars.githubusercontent.com/u/4618288?v=4",
+          "url": "https://github.com/b10s",
+          "contributions": 1,
+          "percentage": 0.26
+        },
+        {
+          "username": "alarsyo",
+          "avatar": "https://avatars.githubusercontent.com/u/15170378?v=4",
+          "url": "https://github.com/alarsyo",
+          "contributions": 1,
+          "percentage": 0.26
+        },
+        {
+          "username": "urld",
+          "avatar": "https://avatars.githubusercontent.com/u/8633610?v=4",
+          "url": "https://github.com/urld",
+          "contributions": 1,
+          "percentage": 0.26
+        }
+      ],
+      "totalContributions": 382
+    },
+    {
+      "org": "golang",
+      "repo": "geo",
+      "url": "https://github.com/golang/geo",
+      "contributors": [
+        {
+          "username": "rsned",
+          "avatar": "https://avatars.githubusercontent.com/u/8549124?v=4",
+          "url": "https://github.com/rsned",
+          "contributions": 289,
+          "percentage": 77.48
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 49,
+          "percentage": 13.14
+        },
+        {
+          "username": "nes1983",
+          "avatar": "https://avatars.githubusercontent.com/u/101879?v=4",
+          "url": "https://github.com/nes1983",
+          "contributions": 23,
+          "percentage": 6.17
+        },
+        {
+          "username": "sambeckman",
+          "avatar": "https://avatars.githubusercontent.com/u/679422?v=4",
+          "url": "https://github.com/sambeckman",
+          "contributions": 5,
+          "percentage": 1.34
+        },
+        {
+          "username": "keijak",
+          "avatar": "https://avatars.githubusercontent.com/u/10389686?v=4",
+          "url": "https://github.com/keijak",
+          "contributions": 2,
+          "percentage": 0.54
+        },
+        {
+          "username": "domob1812",
+          "avatar": "https://avatars.githubusercontent.com/u/4943644?v=4",
+          "url": "https://github.com/domob1812",
+          "contributions": 1,
+          "percentage": 0.27
+        },
+        {
+          "username": "shishberg",
+          "avatar": "https://avatars.githubusercontent.com/u/12688008?v=4",
+          "url": "https://github.com/shishberg",
+          "contributions": 1,
+          "percentage": 0.27
+        },
+        {
+          "username": "gofz",
+          "avatar": "https://avatars.githubusercontent.com/u/23390883?v=4",
+          "url": "https://github.com/gofz",
+          "contributions": 1,
+          "percentage": 0.27
+        },
+        {
+          "username": "lascap",
+          "avatar": "https://avatars.githubusercontent.com/u/1921019?v=4",
+          "url": "https://github.com/lascap",
+          "contributions": 1,
+          "percentage": 0.27
+        },
+        {
+          "username": "sandesh247",
+          "avatar": "https://avatars.githubusercontent.com/u/21641?v=4",
+          "url": "https://github.com/sandesh247",
+          "contributions": 1,
+          "percentage": 0.27
+        }
+      ],
+      "totalContributions": 373
+    },
+    {
+      "org": "golang",
+      "repo": "appengine",
+      "url": "https://github.com/golang/appengine",
+      "contributors": [
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 149,
+          "percentage": 41.97
+        },
+        {
+          "username": "okdave",
+          "avatar": "https://avatars.githubusercontent.com/u/1091335?v=4",
+          "url": "https://github.com/okdave",
+          "contributions": 74,
+          "percentage": 20.85
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 25,
+          "percentage": 7.04
+        },
+        {
+          "username": "gmlewis",
+          "avatar": "https://avatars.githubusercontent.com/u/6598971?v=4",
+          "url": "https://github.com/gmlewis",
+          "contributions": 24,
+          "percentage": 6.76
+        },
+        {
+          "username": "sbuss",
+          "avatar": "https://avatars.githubusercontent.com/u/494522?v=4",
+          "url": "https://github.com/sbuss",
+          "contributions": 13,
+          "percentage": 3.66
+        },
+        {
+          "username": "zevdg",
+          "avatar": "https://avatars.githubusercontent.com/u/568234?v=4",
+          "url": "https://github.com/zevdg",
+          "contributions": 10,
+          "percentage": 2.82
+        },
+        {
+          "username": "KaylaNguyen",
+          "avatar": "https://avatars.githubusercontent.com/u/10249100?v=4",
+          "url": "https://github.com/KaylaNguyen",
+          "contributions": 5,
+          "percentage": 1.41
+        },
+        {
+          "username": "zombiezen",
+          "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+          "url": "https://github.com/zombiezen",
+          "contributions": 5,
+          "percentage": 1.41
+        },
+        {
+          "username": "juliehockett",
+          "avatar": "https://avatars.githubusercontent.com/u/11913400?v=4",
+          "url": "https://github.com/juliehockett",
+          "contributions": 4,
+          "percentage": 1.13
+        },
+        {
+          "username": "mtraver",
+          "avatar": "https://avatars.githubusercontent.com/u/3804793?v=4",
+          "url": "https://github.com/mtraver",
+          "contributions": 4,
+          "percentage": 1.13
+        },
+        {
+          "username": "shantuo",
+          "avatar": "https://avatars.githubusercontent.com/u/8689543?v=4",
+          "url": "https://github.com/shantuo",
+          "contributions": 4,
+          "percentage": 1.13
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 4,
+          "percentage": 1.13
+        },
+        {
+          "username": "ludoch",
+          "avatar": "https://avatars.githubusercontent.com/u/80077?v=4",
+          "url": "https://github.com/ludoch",
+          "contributions": 3,
+          "percentage": 0.85
+        },
+        {
+          "username": "s-mang",
+          "avatar": "https://avatars.githubusercontent.com/u/2741356?v=4",
+          "url": "https://github.com/s-mang",
+          "contributions": 3,
+          "percentage": 0.85
+        },
+        {
+          "username": "bashtian",
+          "avatar": "https://avatars.githubusercontent.com/u/859759?v=4",
+          "url": "https://github.com/bashtian",
+          "contributions": 3,
+          "percentage": 0.85
+        },
+        {
+          "username": "178inaba",
+          "avatar": "https://avatars.githubusercontent.com/u/12012186?v=4",
+          "url": "https://github.com/178inaba",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "ct1n",
+          "avatar": "https://avatars.githubusercontent.com/u/617028?v=4",
+          "url": "https://github.com/ct1n",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "davidsansome",
+          "avatar": "https://avatars.githubusercontent.com/u/314463?v=4",
+          "url": "https://github.com/davidsansome",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "jihuin",
+          "avatar": "https://avatars.githubusercontent.com/u/56172920?v=4",
+          "url": "https://github.com/jihuin",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "jubishop",
+          "avatar": "https://avatars.githubusercontent.com/u/13165?v=4",
+          "url": "https://github.com/jubishop",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "vvakame",
+          "avatar": "https://avatars.githubusercontent.com/u/125332?v=4",
+          "url": "https://github.com/vvakame",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "wsh",
+          "avatar": "https://avatars.githubusercontent.com/u/181174?v=4",
+          "url": "https://github.com/wsh",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "110y",
+          "avatar": "https://avatars.githubusercontent.com/u/2134196?v=4",
+          "url": "https://github.com/110y",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "dependabot[bot]",
+          "avatar": "https://avatars.githubusercontent.com/in/29110?v=4",
+          "url": "https://github.com/apps/dependabot",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "lukasberger",
+          "avatar": "https://avatars.githubusercontent.com/u/2458843?v=4",
+          "url": "https://github.com/lukasberger",
+          "contributions": 2,
+          "percentage": 0.56
+        },
+        {
+          "username": "awly",
+          "avatar": "https://avatars.githubusercontent.com/u/1146263?v=4",
+          "url": "https://github.com/awly",
+          "contributions": 1,
+          "percentage": 0.28
+        },
+        {
+          "username": "asriniva",
+          "avatar": "https://avatars.githubusercontent.com/u/69502?v=4",
+          "url": "https://github.com/asriniva",
+          "contributions": 1,
+          "percentage": 0.28
+        },
+        {
+          "username": "aurkenb",
+          "avatar": "https://avatars.githubusercontent.com/u/3480861?v=4",
+          "url": "https://github.com/aurkenb",
+          "contributions": 1,
+          "percentage": 0.28
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 1,
+          "percentage": 0.28
+        },
+        {
+          "username": "dklimkin",
+          "avatar": "https://avatars.githubusercontent.com/u/854377?v=4",
+          "url": "https://github.com/dklimkin",
+          "contributions": 1,
+          "percentage": 0.28
+        }
+      ],
+      "totalContributions": 355
+    },
+    {
+      "org": "golang",
+      "repo": "mock",
+      "url": "https://github.com/golang/mock",
+      "contributors": [
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 85,
+          "percentage": 25.53
+        },
+        {
+          "username": "balshetzer",
+          "avatar": "https://avatars.githubusercontent.com/u/1846726?v=4",
+          "url": "https://github.com/balshetzer",
+          "contributions": 83,
+          "percentage": 24.92
+        },
+        {
+          "username": "codyoss",
+          "avatar": "https://avatars.githubusercontent.com/u/6331106?v=4",
+          "url": "https://github.com/codyoss",
+          "contributions": 47,
+          "percentage": 14.11
+        },
+        {
+          "username": "poy",
+          "avatar": "https://avatars.githubusercontent.com/u/6554782?v=4",
+          "url": "https://github.com/poy",
+          "contributions": 20,
+          "percentage": 6.01
+        },
+        {
+          "username": "jacobsa",
+          "avatar": "https://avatars.githubusercontent.com/u/202895?v=4",
+          "url": "https://github.com/jacobsa",
+          "contributions": 14,
+          "percentage": 4.2
+        },
+        {
+          "username": "mariusstaicu",
+          "avatar": "https://avatars.githubusercontent.com/u/9932238?v=4",
+          "url": "https://github.com/mariusstaicu",
+          "contributions": 12,
+          "percentage": 3.6
+        },
+        {
+          "username": "pasztorpisti",
+          "avatar": "https://avatars.githubusercontent.com/u/1058990?v=4",
+          "url": "https://github.com/pasztorpisti",
+          "contributions": 7,
+          "percentage": 2.1
+        },
+        {
+          "username": "cvgw",
+          "avatar": "https://avatars.githubusercontent.com/u/6496969?v=4",
+          "url": "https://github.com/cvgw",
+          "contributions": 6,
+          "percentage": 1.8
+        },
+        {
+          "username": "fische",
+          "avatar": "https://avatars.githubusercontent.com/u/6719270?v=4",
+          "url": "https://github.com/fische",
+          "contributions": 5,
+          "percentage": 1.5
+        },
+        {
+          "username": "linzhp",
+          "avatar": "https://avatars.githubusercontent.com/u/98395?v=4",
+          "url": "https://github.com/linzhp",
+          "contributions": 5,
+          "percentage": 1.5
+        },
+        {
+          "username": "sanposhiho",
+          "avatar": "https://avatars.githubusercontent.com/u/44139130?v=4",
+          "url": "https://github.com/sanposhiho",
+          "contributions": 5,
+          "percentage": 1.5
+        },
+        {
+          "username": "xmik",
+          "avatar": "https://avatars.githubusercontent.com/u/8240219?v=4",
+          "url": "https://github.com/xmik",
+          "contributions": 4,
+          "percentage": 1.2
+        },
+        {
+          "username": "nguyenfilip",
+          "avatar": "https://avatars.githubusercontent.com/u/1015061?v=4",
+          "url": "https://github.com/nguyenfilip",
+          "contributions": 4,
+          "percentage": 1.2
+        },
+        {
+          "username": "daviddrysdale",
+          "avatar": "https://avatars.githubusercontent.com/u/457208?v=4",
+          "url": "https://github.com/daviddrysdale",
+          "contributions": 3,
+          "percentage": 0.9
+        },
+        {
+          "username": "hatstand",
+          "avatar": "https://avatars.githubusercontent.com/u/314491?v=4",
+          "url": "https://github.com/hatstand",
+          "contributions": 3,
+          "percentage": 0.9
+        },
+        {
+          "username": "aaronbee",
+          "avatar": "https://avatars.githubusercontent.com/u/199899?v=4",
+          "url": "https://github.com/aaronbee",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "awreece",
+          "avatar": "https://avatars.githubusercontent.com/u/464471?v=4",
+          "url": "https://github.com/awreece",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "gliptak",
+          "avatar": "https://avatars.githubusercontent.com/u/50109?v=4",
+          "url": "https://github.com/gliptak",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "jeking3",
+          "avatar": "https://avatars.githubusercontent.com/u/11771245?v=4",
+          "url": "https://github.com/jeking3",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "kishaningithub",
+          "avatar": "https://avatars.githubusercontent.com/u/763760?v=4",
+          "url": "https://github.com/kishaningithub",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "abbot",
+          "avatar": "https://avatars.githubusercontent.com/u/5857?v=4",
+          "url": "https://github.com/abbot",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "marten-seemann",
+          "avatar": "https://avatars.githubusercontent.com/u/1478487?v=4",
+          "url": "https://github.com/marten-seemann",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "matttproud",
+          "avatar": "https://avatars.githubusercontent.com/u/46149?v=4",
+          "url": "https://github.com/matttproud",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "rgarcia",
+          "avatar": "https://avatars.githubusercontent.com/u/72655?v=4",
+          "url": "https://github.com/rgarcia",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "snarfed",
+          "avatar": "https://avatars.githubusercontent.com/u/778068?v=4",
+          "url": "https://github.com/snarfed",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "skudriashev",
+          "avatar": "https://avatars.githubusercontent.com/u/2817012?v=4",
+          "url": "https://github.com/skudriashev",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "lovung",
+          "avatar": "https://avatars.githubusercontent.com/u/17726269?v=4",
+          "url": "https://github.com/lovung",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "korya",
+          "avatar": "https://avatars.githubusercontent.com/u/148461?v=4",
+          "url": "https://github.com/korya",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "wencan",
+          "avatar": "https://avatars.githubusercontent.com/u/1072917?v=4",
+          "url": "https://github.com/wencan",
+          "contributions": 2,
+          "percentage": 0.6
+        },
+        {
+          "username": "msabramo",
+          "avatar": "https://avatars.githubusercontent.com/u/305268?v=4",
+          "url": "https://github.com/msabramo",
+          "contributions": 2,
+          "percentage": 0.6
+        }
+      ],
+      "totalContributions": 333
+    },
+    {
+      "org": "golang",
+      "repo": "image",
+      "url": "https://github.com/golang/image",
+      "contributors": [
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 235,
+          "percentage": 73.21
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 13,
+          "percentage": 4.05
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 10,
+          "percentage": 3.12
+        },
+        {
+          "username": "chai2010",
+          "avatar": "https://avatars.githubusercontent.com/u/2295542?v=4",
+          "url": "https://github.com/chai2010",
+          "contributions": 8,
+          "percentage": 2.49
+        },
+        {
+          "username": "dennwc",
+          "avatar": "https://avatars.githubusercontent.com/u/676724?v=4",
+          "url": "https://github.com/dennwc",
+          "contributions": 6,
+          "percentage": 1.87
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 6,
+          "percentage": 1.87
+        },
+        {
+          "username": "gopherbot",
+          "avatar": "https://avatars.githubusercontent.com/u/8566911?v=4",
+          "url": "https://github.com/gopherbot",
+          "contributions": 5,
+          "percentage": 1.56
+        },
+        {
+          "username": "hhrutter",
+          "avatar": "https://avatars.githubusercontent.com/u/11322155?v=4",
+          "url": "https://github.com/hhrutter",
+          "contributions": 4,
+          "percentage": 1.25
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 3,
+          "percentage": 0.93
+        },
+        {
+          "username": "jeffallen",
+          "avatar": "https://avatars.githubusercontent.com/u/1131456?v=4",
+          "url": "https://github.com/jeffallen",
+          "contributions": 3,
+          "percentage": 0.93
+        },
+        {
+          "username": "olt",
+          "avatar": "https://avatars.githubusercontent.com/u/235174?v=4",
+          "url": "https://github.com/olt",
+          "contributions": 3,
+          "percentage": 0.93
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 3,
+          "percentage": 0.93
+        },
+        {
+          "username": "sbinet",
+          "avatar": "https://avatars.githubusercontent.com/u/1070920?v=4",
+          "url": "https://github.com/sbinet",
+          "contributions": 3,
+          "percentage": 0.93
+        },
+        {
+          "username": "syst3mw0rm",
+          "avatar": "https://avatars.githubusercontent.com/u/249690?v=4",
+          "url": "https://github.com/syst3mw0rm",
+          "contributions": 2,
+          "percentage": 0.62
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 2,
+          "percentage": 0.62
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "acln0",
+          "avatar": "https://avatars.githubusercontent.com/u/3393388?v=4",
+          "url": "https://github.com/acln0",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "dddent",
+          "avatar": "https://avatars.githubusercontent.com/u/11015429?v=4",
+          "url": "https://github.com/dddent",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "dwbuiten",
+          "avatar": "https://avatars.githubusercontent.com/u/1189609?v=4",
+          "url": "https://github.com/dwbuiten",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "hajimehoshi",
+          "avatar": "https://avatars.githubusercontent.com/u/16950?v=4",
+          "url": "https://github.com/hajimehoshi",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "srinathh",
+          "avatar": "https://avatars.githubusercontent.com/u/2973973?v=4",
+          "url": "https://github.com/srinathh",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "osocurioso",
+          "avatar": "https://avatars.githubusercontent.com/u/191517?v=4",
+          "url": "https://github.com/osocurioso",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "igorzhilianin",
+          "avatar": "https://avatars.githubusercontent.com/u/43898479?v=4",
+          "url": "https://github.com/igorzhilianin",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "Jacalz",
+          "avatar": "https://avatars.githubusercontent.com/u/25466657?v=4",
+          "url": "https://github.com/Jacalz",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "jiulongw",
+          "avatar": "https://avatars.githubusercontent.com/u/1650734?v=4",
+          "url": "https://github.com/jiulongw",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 1,
+          "percentage": 0.31
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 1,
+          "percentage": 0.31
+        }
+      ],
+      "totalContributions": 321
+    },
+    {
+      "org": "golang",
+      "repo": "talks",
+      "url": "https://github.com/golang/talks",
+      "contributors": [
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 131,
+          "percentage": 42.67
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 37,
+          "percentage": 12.05
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 28,
+          "percentage": 9.12
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 13,
+          "percentage": 4.23
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 11,
+          "percentage": 3.58
+        },
+        {
+          "username": "Sajmani",
+          "avatar": "https://avatars.githubusercontent.com/u/9734877?v=4",
+          "url": "https://github.com/Sajmani",
+          "contributions": 11,
+          "percentage": 3.58
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 9,
+          "percentage": 2.93
+        },
+        {
+          "username": "griesemer",
+          "avatar": "https://avatars.githubusercontent.com/u/8528975?v=4",
+          "url": "https://github.com/griesemer",
+          "contributions": 9,
+          "percentage": 2.93
+        },
+        {
+          "username": "chai2010",
+          "avatar": "https://avatars.githubusercontent.com/u/2295542?v=4",
+          "url": "https://github.com/chai2010",
+          "contributions": 7,
+          "percentage": 2.28
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 6,
+          "percentage": 1.95
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 6,
+          "percentage": 1.95
+        },
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 4,
+          "percentage": 1.3
+        },
+        {
+          "username": "dvyukov",
+          "avatar": "https://avatars.githubusercontent.com/u/1095328?v=4",
+          "url": "https://github.com/dvyukov",
+          "contributions": 4,
+          "percentage": 1.3
+        },
+        {
+          "username": "kortschak",
+          "avatar": "https://avatars.githubusercontent.com/u/275221?v=4",
+          "url": "https://github.com/kortschak",
+          "contributions": 4,
+          "percentage": 1.3
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 3,
+          "percentage": 0.98
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 3,
+          "percentage": 0.98
+        },
+        {
+          "username": "adonovan",
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?v=4",
+          "url": "https://github.com/adonovan",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "wathiede",
+          "avatar": "https://avatars.githubusercontent.com/u/1043363?v=4",
+          "url": "https://github.com/wathiede",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "egonelbre",
+          "avatar": "https://avatars.githubusercontent.com/u/192964?v=4",
+          "url": "https://github.com/egonelbre",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "ukai",
+          "avatar": "https://avatars.githubusercontent.com/u/1037513?v=4",
+          "url": "https://github.com/ukai",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "nathany",
+          "avatar": "https://avatars.githubusercontent.com/u/4566?v=4",
+          "url": "https://github.com/nathany",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "btracey",
+          "avatar": "https://avatars.githubusercontent.com/u/3680859?v=4",
+          "url": "https://github.com/btracey",
+          "contributions": 2,
+          "percentage": 0.65
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "mirtchovski",
+          "avatar": "https://avatars.githubusercontent.com/u/2047078?v=4",
+          "url": "https://github.com/mirtchovski",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "cespare",
+          "avatar": "https://avatars.githubusercontent.com/u/318501?v=4",
+          "url": "https://github.com/cespare",
+          "contributions": 1,
+          "percentage": 0.33
+        },
+        {
+          "username": "davidrjenni",
+          "avatar": "https://avatars.githubusercontent.com/u/10241572?v=4",
+          "url": "https://github.com/davidrjenni",
+          "contributions": 1,
+          "percentage": 0.33
+        }
+      ],
+      "totalContributions": 307
+    },
+    {
+      "org": "golang",
+      "repo": "oauth2",
+      "url": "https://github.com/golang/oauth2",
+      "contributors": [
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 145,
+          "percentage": 48.49
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 23,
+          "percentage": 7.69
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 23,
+          "percentage": 7.69
+        },
+        {
+          "username": "ScruffyProdigy",
+          "avatar": "https://avatars.githubusercontent.com/u/36671?v=4",
+          "url": "https://github.com/ScruffyProdigy",
+          "contributions": 12,
+          "percentage": 4.01
+        },
+        {
+          "username": "gIthuriel",
+          "avatar": "https://avatars.githubusercontent.com/u/72171810?v=4",
+          "url": "https://github.com/gIthuriel",
+          "contributions": 11,
+          "percentage": 3.68
+        },
+        {
+          "username": "zombiezen",
+          "avatar": "https://avatars.githubusercontent.com/u/181535?v=4",
+          "url": "https://github.com/zombiezen",
+          "contributions": 10,
+          "percentage": 3.34
+        },
+        {
+          "username": "okdave",
+          "avatar": "https://avatars.githubusercontent.com/u/1091335?v=4",
+          "url": "https://github.com/okdave",
+          "contributions": 7,
+          "percentage": 2.34
+        },
+        {
+          "username": "codyoss",
+          "avatar": "https://avatars.githubusercontent.com/u/6331106?v=4",
+          "url": "https://github.com/codyoss",
+          "contributions": 6,
+          "percentage": 2.01
+        },
+        {
+          "username": "gopherbot",
+          "avatar": "https://avatars.githubusercontent.com/u/8566911?v=4",
+          "url": "https://github.com/gopherbot",
+          "contributions": 6,
+          "percentage": 2.01
+        },
+        {
+          "username": "andyrzhao",
+          "avatar": "https://avatars.githubusercontent.com/u/51722555?v=4",
+          "url": "https://github.com/andyrzhao",
+          "contributions": 5,
+          "percentage": 1.67
+        },
+        {
+          "username": "odeke-em",
+          "avatar": "https://avatars.githubusercontent.com/u/4898263?v=4",
+          "url": "https://github.com/odeke-em",
+          "contributions": 4,
+          "percentage": 1.34
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "foxxtrot",
+          "avatar": "https://avatars.githubusercontent.com/u/37934?v=4",
+          "url": "https://github.com/foxxtrot",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "proppy",
+          "avatar": "https://avatars.githubusercontent.com/u/5268?v=4",
+          "url": "https://github.com/proppy",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "SamWhited",
+          "avatar": "https://avatars.githubusercontent.com/u/512573?v=4",
+          "url": "https://github.com/SamWhited",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "narqo",
+          "avatar": "https://avatars.githubusercontent.com/u/88045?v=4",
+          "url": "https://github.com/narqo",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "FenwickElliott",
+          "avatar": "https://avatars.githubusercontent.com/u/24613078?v=4",
+          "url": "https://github.com/FenwickElliott",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "ericchiang",
+          "avatar": "https://avatars.githubusercontent.com/u/2342749?v=4",
+          "url": "https://github.com/ericchiang",
+          "contributions": 3,
+          "percentage": 1
+        },
+        {
+          "username": "jacobsa",
+          "avatar": "https://avatars.githubusercontent.com/u/202895?v=4",
+          "url": "https://github.com/jacobsa",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "subosito",
+          "avatar": "https://avatars.githubusercontent.com/u/73028?v=4",
+          "url": "https://github.com/subosito",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "sapk",
+          "avatar": "https://avatars.githubusercontent.com/u/4052400?v=4",
+          "url": "https://github.com/sapk",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "stacktic",
+          "avatar": "https://avatars.githubusercontent.com/u/1688320?v=4",
+          "url": "https://github.com/stacktic",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "rumyantseva",
+          "avatar": "https://avatars.githubusercontent.com/u/1684673?v=4",
+          "url": "https://github.com/rumyantseva",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "walle",
+          "avatar": "https://avatars.githubusercontent.com/u/191136?v=4",
+          "url": "https://github.com/walle",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "jtolio",
+          "avatar": "https://avatars.githubusercontent.com/u/109603?v=4",
+          "url": "https://github.com/jtolio",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "jayschwa",
+          "avatar": "https://avatars.githubusercontent.com/u/475017?v=4",
+          "url": "https://github.com/jayschwa",
+          "contributions": 2,
+          "percentage": 0.67
+        },
+        {
+          "username": "jba",
+          "avatar": "https://avatars.githubusercontent.com/u/18483045?v=4",
+          "url": "https://github.com/jba",
+          "contributions": 2,
+          "percentage": 0.67
+        }
+      ],
+      "totalContributions": 299
+    },
+    {
+      "org": "golang",
+      "repo": "playground",
+      "url": "https://github.com/golang/playground",
+      "contributors": [
+        {
+          "username": "toothrot",
+          "avatar": "https://avatars.githubusercontent.com/u/9885?v=4",
+          "url": "https://github.com/toothrot",
+          "contributions": 42,
+          "percentage": 19.53
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 34,
+          "percentage": 15.81
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 26,
+          "percentage": 12.09
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 19,
+          "percentage": 8.84
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 18,
+          "percentage": 8.37
+        },
+        {
+          "username": "ysmolski",
+          "avatar": "https://avatars.githubusercontent.com/u/140245?v=4",
+          "url": "https://github.com/ysmolski",
+          "contributions": 17,
+          "percentage": 7.91
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 15,
+          "percentage": 6.98
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 8,
+          "percentage": 3.72
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 5,
+          "percentage": 2.33
+        },
+        {
+          "username": "proppy",
+          "avatar": "https://avatars.githubusercontent.com/u/5268?v=4",
+          "url": "https://github.com/proppy",
+          "contributions": 4,
+          "percentage": 1.86
+        },
+        {
+          "username": "smasher164",
+          "avatar": "https://avatars.githubusercontent.com/u/12636891?v=4",
+          "url": "https://github.com/smasher164",
+          "contributions": 4,
+          "percentage": 1.86
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 3,
+          "percentage": 1.4
+        },
+        {
+          "username": "katiehockman",
+          "avatar": "https://avatars.githubusercontent.com/u/28789760?v=4",
+          "url": "https://github.com/katiehockman",
+          "contributions": 2,
+          "percentage": 0.93
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 2,
+          "percentage": 0.93
+        },
+        {
+          "username": "ucirello",
+          "avatar": "https://avatars.githubusercontent.com/u/138827?v=4",
+          "url": "https://github.com/ucirello",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "odeke-em",
+          "avatar": "https://avatars.githubusercontent.com/u/4898263?v=4",
+          "url": "https://github.com/odeke-em",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "jamalc",
+          "avatar": "https://avatars.githubusercontent.com/u/18269441?v=4",
+          "url": "https://github.com/jamalc",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "johnmccabe",
+          "avatar": "https://avatars.githubusercontent.com/u/83862?v=4",
+          "url": "https://github.com/johnmccabe",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "stapelberg",
+          "avatar": "https://avatars.githubusercontent.com/u/55506?v=4",
+          "url": "https://github.com/stapelberg",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "nikola-jokic",
+          "avatar": "https://avatars.githubusercontent.com/u/97525037?v=4",
+          "url": "https://github.com/nikola-jokic",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "leitzler",
+          "avatar": "https://avatars.githubusercontent.com/u/3111805?v=4",
+          "url": "https://github.com/leitzler",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "rolandshoemaker",
+          "avatar": "https://avatars.githubusercontent.com/u/5080674?v=4",
+          "url": "https://github.com/rolandshoemaker",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "shawnps",
+          "avatar": "https://avatars.githubusercontent.com/u/80111?v=4",
+          "url": "https://github.com/shawnps",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 1,
+          "percentage": 0.47
+        },
+        {
+          "username": "mo4islona",
+          "avatar": "https://avatars.githubusercontent.com/u/589175?v=4",
+          "url": "https://github.com/mo4islona",
+          "contributions": 1,
+          "percentage": 0.47
+        }
+      ],
+      "totalContributions": 215
+    },
+    {
+      "org": "golang",
+      "repo": "review",
+      "url": "https://github.com/golang/review",
+      "contributors": [
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 69,
+          "percentage": 34.5
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 42,
+          "percentage": 21
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 13,
+          "percentage": 6.5
+        },
+        {
+          "username": "aclements",
+          "avatar": "https://avatars.githubusercontent.com/u/2688315?v=4",
+          "url": "https://github.com/aclements",
+          "contributions": 12,
+          "percentage": 6
+        },
+        {
+          "username": "alexbrainman",
+          "avatar": "https://avatars.githubusercontent.com/u/9796621?v=4",
+          "url": "https://github.com/alexbrainman",
+          "contributions": 5,
+          "percentage": 2.5
+        },
+        {
+          "username": "cmarcelo",
+          "avatar": "https://avatars.githubusercontent.com/u/10478?v=4",
+          "url": "https://github.com/cmarcelo",
+          "contributions": 5,
+          "percentage": 2.5
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 5,
+          "percentage": 2.5
+        },
+        {
+          "username": "FiloSottile",
+          "avatar": "https://avatars.githubusercontent.com/u/1225294?v=4",
+          "url": "https://github.com/FiloSottile",
+          "contributions": 5,
+          "percentage": 2.5
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 4,
+          "percentage": 2
+        },
+        {
+          "username": "osocurioso",
+          "avatar": "https://avatars.githubusercontent.com/u/191517?v=4",
+          "url": "https://github.com/osocurioso",
+          "contributions": 4,
+          "percentage": 2
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 3,
+          "percentage": 1.5
+        },
+        {
+          "username": "kardianos",
+          "avatar": "https://avatars.githubusercontent.com/u/755121?v=4",
+          "url": "https://github.com/kardianos",
+          "contributions": 3,
+          "percentage": 1.5
+        },
+        {
+          "username": "mattn",
+          "avatar": "https://avatars.githubusercontent.com/u/10111?v=4",
+          "url": "https://github.com/mattn",
+          "contributions": 3,
+          "percentage": 1.5
+        },
+        {
+          "username": "mvdan",
+          "avatar": "https://avatars.githubusercontent.com/u/3576549?v=4",
+          "url": "https://github.com/mvdan",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "jadekler",
+          "avatar": "https://avatars.githubusercontent.com/u/3584893?v=4",
+          "url": "https://github.com/jadekler",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "zimmski",
+          "avatar": "https://avatars.githubusercontent.com/u/1847950?v=4",
+          "url": "https://github.com/zimmski",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "matloob",
+          "avatar": "https://avatars.githubusercontent.com/u/16470053?v=4",
+          "url": "https://github.com/matloob",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "myitcv",
+          "avatar": "https://avatars.githubusercontent.com/u/3374574?v=4",
+          "url": "https://github.com/myitcv",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "thanm",
+          "avatar": "https://avatars.githubusercontent.com/u/12280172?v=4",
+          "url": "https://github.com/thanm",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "ysmolski",
+          "avatar": "https://avatars.githubusercontent.com/u/140245?v=4",
+          "url": "https://github.com/ysmolski",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "minux",
+          "avatar": "https://avatars.githubusercontent.com/u/135652?v=4",
+          "url": "https://github.com/minux",
+          "contributions": 2,
+          "percentage": 1
+        },
+        {
+          "username": "AndersonQ",
+          "avatar": "https://avatars.githubusercontent.com/u/203669?v=4",
+          "url": "https://github.com/AndersonQ",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "ality",
+          "avatar": "https://avatars.githubusercontent.com/u/352151?v=4",
+          "url": "https://github.com/ality",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "bsiegert",
+          "avatar": "https://avatars.githubusercontent.com/u/866330?v=4",
+          "url": "https://github.com/bsiegert",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "neild",
+          "avatar": "https://avatars.githubusercontent.com/u/52544?v=4",
+          "url": "https://github.com/neild",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "quite",
+          "avatar": "https://avatars.githubusercontent.com/u/488679?v=4",
+          "url": "https://github.com/quite",
+          "contributions": 1,
+          "percentage": 0.5
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 1,
+          "percentage": 0.5
+        }
+      ],
+      "totalContributions": 200
+    },
+    {
+      "org": "golang",
+      "repo": "benchmarks",
+      "url": "https://github.com/golang/benchmarks",
+      "contributors": [
+        {
+          "username": "mknyszek",
+          "avatar": "https://avatars.githubusercontent.com/u/1248668?v=4",
+          "url": "https://github.com/mknyszek",
+          "contributions": 35,
+          "percentage": 21.47
+        },
+        {
+          "username": "prattmic",
+          "avatar": "https://avatars.githubusercontent.com/u/1293187?v=4",
+          "url": "https://github.com/prattmic",
+          "contributions": 29,
+          "percentage": 17.79
+        },
+        {
+          "username": "dr2chase",
+          "avatar": "https://avatars.githubusercontent.com/u/1928999?v=4",
+          "url": "https://github.com/dr2chase",
+          "contributions": 28,
+          "percentage": 17.18
+        },
+        {
+          "username": "aclements",
+          "avatar": "https://avatars.githubusercontent.com/u/2688315?v=4",
+          "url": "https://github.com/aclements",
+          "contributions": 12,
+          "percentage": 7.36
+        },
+        {
+          "username": "jeremyfaller",
+          "avatar": "https://avatars.githubusercontent.com/u/3063869?v=4",
+          "url": "https://github.com/jeremyfaller",
+          "contributions": 8,
+          "percentage": 4.91
+        },
+        {
+          "username": "dvyukov",
+          "avatar": "https://avatars.githubusercontent.com/u/1095328?v=4",
+          "url": "https://github.com/dvyukov",
+          "contributions": 8,
+          "percentage": 4.91
+        },
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 4,
+          "percentage": 2.45
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 4,
+          "percentage": 2.45
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 4,
+          "percentage": 2.45
+        },
+        {
+          "username": "tklauser",
+          "avatar": "https://avatars.githubusercontent.com/u/539708?v=4",
+          "url": "https://github.com/tklauser",
+          "contributions": 4,
+          "percentage": 2.45
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 4,
+          "percentage": 2.45
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 3,
+          "percentage": 1.84
+        },
+        {
+          "username": "davecheney",
+          "avatar": "https://avatars.githubusercontent.com/u/7171?v=4",
+          "url": "https://github.com/davecheney",
+          "contributions": 3,
+          "percentage": 1.84
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 3,
+          "percentage": 1.84
+        },
+        {
+          "username": "rakyll",
+          "avatar": "https://avatars.githubusercontent.com/u/108380?v=4",
+          "url": "https://github.com/rakyll",
+          "contributions": 2,
+          "percentage": 1.23
+        },
+        {
+          "username": "mengzhuo",
+          "avatar": "https://avatars.githubusercontent.com/u/885662?v=4",
+          "url": "https://github.com/mengzhuo",
+          "contributions": 2,
+          "percentage": 1.23
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "davidlazar",
+          "avatar": "https://avatars.githubusercontent.com/u/45629?v=4",
+          "url": "https://github.com/davidlazar",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "fhs",
+          "avatar": "https://avatars.githubusercontent.com/u/183501?v=4",
+          "url": "https://github.com/fhs",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "jeffallen",
+          "avatar": "https://avatars.githubusercontent.com/u/1131456?v=4",
+          "url": "https://github.com/jeffallen",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "moul",
+          "avatar": "https://avatars.githubusercontent.com/u/94029?v=4",
+          "url": "https://github.com/moul",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "quentinmit",
+          "avatar": "https://avatars.githubusercontent.com/u/115761?v=4",
+          "url": "https://github.com/quentinmit",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 1,
+          "percentage": 0.61
+        },
+        {
+          "username": "pavel-paulau",
+          "avatar": "https://avatars.githubusercontent.com/u/833001?v=4",
+          "url": "https://github.com/pavel-paulau",
+          "contributions": 1,
+          "percentage": 0.61
+        }
+      ],
+      "totalContributions": 163
+    },
+    {
+      "org": "golang",
+      "repo": "snappy",
+      "url": "https://github.com/golang/snappy",
+      "contributors": [
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 131,
+          "percentage": 87.33
+        },
+        {
+          "username": "dgryski",
+          "avatar": "https://avatars.githubusercontent.com/u/970862?v=4",
+          "url": "https://github.com/dgryski",
+          "contributions": 3,
+          "percentage": 2
+        },
+        {
+          "username": "AWSjswinney",
+          "avatar": "https://avatars.githubusercontent.com/u/24902619?v=4",
+          "url": "https://github.com/AWSjswinney",
+          "contributions": 2,
+          "percentage": 1.33
+        },
+        {
+          "username": "klauspost",
+          "avatar": "https://avatars.githubusercontent.com/u/5663952?v=4",
+          "url": "https://github.com/klauspost",
+          "contributions": 2,
+          "percentage": 1.33
+        },
+        {
+          "username": "sbinet",
+          "avatar": "https://avatars.githubusercontent.com/u/1070920?v=4",
+          "url": "https://github.com/sbinet",
+          "contributions": 2,
+          "percentage": 1.33
+        },
+        {
+          "username": "alexlegg",
+          "avatar": "https://avatars.githubusercontent.com/u/536077?v=4",
+          "url": "https://github.com/alexlegg",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "cuonglm",
+          "avatar": "https://avatars.githubusercontent.com/u/4304764?v=4",
+          "url": "https://github.com/cuonglm",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "EdwardBetts",
+          "avatar": "https://avatars.githubusercontent.com/u/3818?v=4",
+          "url": "https://github.com/EdwardBetts",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "buth",
+          "avatar": "https://avatars.githubusercontent.com/u/1918465?v=4",
+          "url": "https://github.com/buth",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "creachadair",
+          "avatar": "https://avatars.githubusercontent.com/u/19258?v=4",
+          "url": "https://github.com/creachadair",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "maruel",
+          "avatar": "https://avatars.githubusercontent.com/u/75011?v=4",
+          "url": "https://github.com/maruel",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "rhcarvalho",
+          "avatar": "https://avatars.githubusercontent.com/u/88819?v=4",
+          "url": "https://github.com/rhcarvalho",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "sguiheux",
+          "avatar": "https://avatars.githubusercontent.com/u/1478025?v=4",
+          "url": "https://github.com/sguiheux",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "mattn",
+          "avatar": "https://avatars.githubusercontent.com/u/10111?v=4",
+          "url": "https://github.com/mattn",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "fatedier",
+          "avatar": "https://avatars.githubusercontent.com/u/7346661?v=4",
+          "url": "https://github.com/fatedier",
+          "contributions": 1,
+          "percentage": 0.67
+        }
+      ],
+      "totalContributions": 150
+    },
+    {
+      "org": "golang",
+      "repo": "lint",
+      "url": "https://github.com/golang/lint",
+      "contributors": [
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 91,
+          "percentage": 61.07
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 7,
+          "percentage": 4.7
+        },
+        {
+          "username": "dsnet",
+          "avatar": "https://avatars.githubusercontent.com/u/6354026?v=4",
+          "url": "https://github.com/dsnet",
+          "contributions": 6,
+          "percentage": 4.03
+        },
+        {
+          "username": "zimmski",
+          "avatar": "https://avatars.githubusercontent.com/u/1847950?v=4",
+          "url": "https://github.com/zimmski",
+          "contributions": 6,
+          "percentage": 4.03
+        },
+        {
+          "username": "adonovan",
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?v=4",
+          "url": "https://github.com/adonovan",
+          "contributions": 4,
+          "percentage": 2.68
+        },
+        {
+          "username": "matloob",
+          "avatar": "https://avatars.githubusercontent.com/u/16470053?v=4",
+          "url": "https://github.com/matloob",
+          "contributions": 4,
+          "percentage": 2.68
+        },
+        {
+          "username": "dominikh",
+          "avatar": "https://avatars.githubusercontent.com/u/39825?v=4",
+          "url": "https://github.com/dominikh",
+          "contributions": 3,
+          "percentage": 2.01
+        },
+        {
+          "username": "neild",
+          "avatar": "https://avatars.githubusercontent.com/u/52544?v=4",
+          "url": "https://github.com/neild",
+          "contributions": 2,
+          "percentage": 1.34
+        },
+        {
+          "username": "zchee",
+          "avatar": "https://avatars.githubusercontent.com/u/6366270?v=4",
+          "url": "https://github.com/zchee",
+          "contributions": 2,
+          "percentage": 1.34
+        },
+        {
+          "username": "leonelquinteros",
+          "avatar": "https://avatars.githubusercontent.com/u/155026?v=4",
+          "url": "https://github.com/leonelquinteros",
+          "contributions": 2,
+          "percentage": 1.34
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 2,
+          "percentage": 1.34
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 2,
+          "percentage": 1.34
+        },
+        {
+          "username": "LawnGnome",
+          "avatar": "https://avatars.githubusercontent.com/u/229984?v=4",
+          "url": "https://github.com/LawnGnome",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "AeroNotix",
+          "avatar": "https://avatars.githubusercontent.com/u/975962?v=4",
+          "url": "https://github.com/AeroNotix",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "atotto",
+          "avatar": "https://avatars.githubusercontent.com/u/644501?v=4",
+          "url": "https://github.com/atotto",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "avigavin",
+          "avatar": "https://avatars.githubusercontent.com/u/39834227?v=4",
+          "url": "https://github.com/avigavin",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "bigzilla",
+          "avatar": "https://avatars.githubusercontent.com/u/20436235?v=4",
+          "url": "https://github.com/bigzilla",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "bradleyfalzon",
+          "avatar": "https://avatars.githubusercontent.com/u/1834577?v=4",
+          "url": "https://github.com/bradleyfalzon",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "chrsmith",
+          "avatar": "https://avatars.githubusercontent.com/u/4029847?v=4",
+          "url": "https://github.com/chrsmith",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "cblecker",
+          "avatar": "https://avatars.githubusercontent.com/u/1431969?v=4",
+          "url": "https://github.com/cblecker",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "mvdan",
+          "avatar": "https://avatars.githubusercontent.com/u/3576549?v=4",
+          "url": "https://github.com/mvdan",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "crawshaw",
+          "avatar": "https://avatars.githubusercontent.com/u/161319?v=4",
+          "url": "https://github.com/crawshaw",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "dim13",
+          "avatar": "https://avatars.githubusercontent.com/u/4006042?v=4",
+          "url": "https://github.com/dim13",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "ericchiang",
+          "avatar": "https://avatars.githubusercontent.com/u/2342749?v=4",
+          "url": "https://github.com/ericchiang",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "tehsphinx",
+          "avatar": "https://avatars.githubusercontent.com/u/6624571?v=4",
+          "url": "https://github.com/tehsphinx",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "jgilik",
+          "avatar": "https://avatars.githubusercontent.com/u/186020?v=4",
+          "url": "https://github.com/jgilik",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "tarsius",
+          "avatar": "https://avatars.githubusercontent.com/u/25046?v=4",
+          "url": "https://github.com/tarsius",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1,
+          "percentage": 0.67
+        },
+        {
+          "username": "jstemmer",
+          "avatar": "https://avatars.githubusercontent.com/u/67066?v=4",
+          "url": "https://github.com/jstemmer",
+          "contributions": 1,
+          "percentage": 0.67
+        }
+      ],
+      "totalContributions": 149
+    },
+    {
+      "org": "golang",
+      "repo": "debug",
+      "url": "https://github.com/golang/debug",
+      "contributors": [
+        {
+          "username": "nigeltao",
+          "avatar": "https://avatars.githubusercontent.com/u/8565232?v=4",
+          "url": "https://github.com/nigeltao",
+          "contributions": 28,
+          "percentage": 19.58
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 26,
+          "percentage": 18.18
+        },
+        {
+          "username": "randall77",
+          "avatar": "https://avatars.githubusercontent.com/u/6889504?v=4",
+          "url": "https://github.com/randall77",
+          "contributions": 24,
+          "percentage": 16.78
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 21,
+          "percentage": 14.69
+        },
+        {
+          "username": "heschi",
+          "avatar": "https://avatars.githubusercontent.com/u/24611692?v=4",
+          "url": "https://github.com/heschi",
+          "contributions": 9,
+          "percentage": 6.29
+        },
+        {
+          "username": "doujiang24",
+          "avatar": "https://avatars.githubusercontent.com/u/570391?v=4",
+          "url": "https://github.com/doujiang24",
+          "contributions": 5,
+          "percentage": 3.5
+        },
+        {
+          "username": "bcmills",
+          "avatar": "https://avatars.githubusercontent.com/u/5200974?v=4",
+          "url": "https://github.com/bcmills",
+          "contributions": 4,
+          "percentage": 2.8
+        },
+        {
+          "username": "prattmic",
+          "avatar": "https://avatars.githubusercontent.com/u/1293187?v=4",
+          "url": "https://github.com/prattmic",
+          "contributions": 4,
+          "percentage": 2.8
+        },
+        {
+          "username": "cuishuang",
+          "avatar": "https://avatars.githubusercontent.com/u/15921519?v=4",
+          "url": "https://github.com/cuishuang",
+          "contributions": 4,
+          "percentage": 2.8
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 3,
+          "percentage": 2.1
+        },
+        {
+          "username": "zchee",
+          "avatar": "https://avatars.githubusercontent.com/u/6366270?v=4",
+          "url": "https://github.com/zchee",
+          "contributions": 2,
+          "percentage": 1.4
+        },
+        {
+          "username": "aarzilli",
+          "avatar": "https://avatars.githubusercontent.com/u/303620?v=4",
+          "url": "https://github.com/aarzilli",
+          "contributions": 2,
+          "percentage": 1.4
+        },
+        {
+          "username": "Abirdcfly",
+          "avatar": "https://avatars.githubusercontent.com/u/5100555?v=4",
+          "url": "https://github.com/Abirdcfly",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "andybons",
+          "avatar": "https://avatars.githubusercontent.com/u/365204?v=4",
+          "url": "https://github.com/andybons",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "dmitshur",
+          "avatar": "https://avatars.githubusercontent.com/u/1924134?v=4",
+          "url": "https://github.com/dmitshur",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "gkelly",
+          "avatar": "https://avatars.githubusercontent.com/u/48158?v=4",
+          "url": "https://github.com/gkelly",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "jordanlewis",
+          "avatar": "https://avatars.githubusercontent.com/u/43821?v=4",
+          "url": "https://github.com/jordanlewis",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "josharian",
+          "avatar": "https://avatars.githubusercontent.com/u/67496?v=4",
+          "url": "https://github.com/josharian",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "julieqiu",
+          "avatar": "https://avatars.githubusercontent.com/u/5943521?v=4",
+          "url": "https://github.com/julieqiu",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "mengzhuo",
+          "avatar": "https://avatars.githubusercontent.com/u/885662?v=4",
+          "url": "https://github.com/mengzhuo",
+          "contributions": 1,
+          "percentage": 0.7
+        },
+        {
+          "username": "thanm",
+          "avatar": "https://avatars.githubusercontent.com/u/12280172?v=4",
+          "url": "https://github.com/thanm",
+          "contributions": 1,
+          "percentage": 0.7
+        }
+      ],
+      "totalContributions": 143
+    },
+    {
+      "org": "golang",
+      "repo": "groupcache",
+      "url": "https://github.com/golang/groupcache",
+      "contributors": [
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 20,
+          "percentage": 32.79
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 8,
+          "percentage": 13.11
+        },
+        {
+          "username": "nf",
+          "avatar": "https://avatars.githubusercontent.com/u/74661?v=4",
+          "url": "https://github.com/nf",
+          "contributions": 7,
+          "percentage": 11.48
+        },
+        {
+          "username": "desimone",
+          "avatar": "https://avatars.githubusercontent.com/u/1544881?v=4",
+          "url": "https://github.com/desimone",
+          "contributions": 2,
+          "percentage": 3.28
+        },
+        {
+          "username": "Luit",
+          "avatar": "https://avatars.githubusercontent.com/u/388247?v=4",
+          "url": "https://github.com/Luit",
+          "contributions": 2,
+          "percentage": 3.28
+        },
+        {
+          "username": "shawnps",
+          "avatar": "https://avatars.githubusercontent.com/u/80111?v=4",
+          "url": "https://github.com/shawnps",
+          "contributions": 2,
+          "percentage": 3.28
+        },
+        {
+          "username": "elimisteve",
+          "avatar": "https://avatars.githubusercontent.com/u/139603?v=4",
+          "url": "https://github.com/elimisteve",
+          "contributions": 2,
+          "percentage": 3.28
+        },
+        {
+          "username": "bmizerany",
+          "avatar": "https://avatars.githubusercontent.com/u/46?v=4",
+          "url": "https://github.com/bmizerany",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "CodeLingoBot",
+          "avatar": "https://avatars.githubusercontent.com/u/45469328?v=4",
+          "url": "https://github.com/CodeLingoBot",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "dakerfp",
+          "avatar": "https://avatars.githubusercontent.com/u/329500?v=4",
+          "url": "https://github.com/dakerfp",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "dgryski",
+          "avatar": "https://avatars.githubusercontent.com/u/970862?v=4",
+          "url": "https://github.com/dgryski",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "EdwardBetts",
+          "avatar": "https://avatars.githubusercontent.com/u/3818?v=4",
+          "url": "https://github.com/EdwardBetts",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "HaraldNordgren",
+          "avatar": "https://avatars.githubusercontent.com/u/9569897?v=4",
+          "url": "https://github.com/HaraldNordgren",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "dsnet",
+          "avatar": "https://avatars.githubusercontent.com/u/6354026?v=4",
+          "url": "https://github.com/dsnet",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "kevinburke",
+          "avatar": "https://avatars.githubusercontent.com/u/234019?v=4",
+          "url": "https://github.com/kevinburke",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "mdentonSkyport",
+          "avatar": "https://avatars.githubusercontent.com/u/19919339?v=4",
+          "url": "https://github.com/mdentonSkyport",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "luciferous",
+          "avatar": "https://avatars.githubusercontent.com/u/24509?v=4",
+          "url": "https://github.com/luciferous",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "pierrre",
+          "avatar": "https://avatars.githubusercontent.com/u/131535?v=4",
+          "url": "https://github.com/pierrre",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "ryanslade",
+          "avatar": "https://avatars.githubusercontent.com/u/25610?v=4",
+          "url": "https://github.com/ryanslade",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "two",
+          "avatar": "https://avatars.githubusercontent.com/u/40845434?v=4",
+          "url": "https://github.com/two",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "boulos",
+          "avatar": "https://avatars.githubusercontent.com/u/455486?v=4",
+          "url": "https://github.com/boulos",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "tippjammer",
+          "avatar": "https://avatars.githubusercontent.com/u/11996400?v=4",
+          "url": "https://github.com/tippjammer",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "fumin",
+          "avatar": "https://avatars.githubusercontent.com/u/765222?v=4",
+          "url": "https://github.com/fumin",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "lorneli",
+          "avatar": "https://avatars.githubusercontent.com/u/24292047?v=4",
+          "url": "https://github.com/lorneli",
+          "contributions": 1,
+          "percentage": 1.64
+        },
+        {
+          "username": "MaruHyl",
+          "avatar": "https://avatars.githubusercontent.com/u/18390715?v=4",
+          "url": "https://github.com/MaruHyl",
+          "contributions": 1,
+          "percentage": 1.64
+        }
+      ],
+      "totalContributions": 61
+    },
+    {
+      "org": "golang",
+      "repo": "glog",
+      "url": "https://github.com/golang/glog",
+      "contributors": [
+        {
+          "username": "dsymonds",
+          "avatar": "https://avatars.githubusercontent.com/u/31506?v=4",
+          "url": "https://github.com/dsymonds",
+          "contributions": 11,
+          "percentage": 36.67
+        },
+        {
+          "username": "robpike",
+          "avatar": "https://avatars.githubusercontent.com/u/4324516?v=4",
+          "url": "https://github.com/robpike",
+          "contributions": 9,
+          "percentage": 30
+        },
+        {
+          "username": "chressie",
+          "avatar": "https://avatars.githubusercontent.com/u/227883?v=4",
+          "url": "https://github.com/chressie",
+          "contributions": 4,
+          "percentage": 13.33
+        },
+        {
+          "username": "muesli",
+          "avatar": "https://avatars.githubusercontent.com/u/146378?v=4",
+          "url": "https://github.com/muesli",
+          "contributions": 1,
+          "percentage": 3.33
+        },
+        {
+          "username": "maruel",
+          "avatar": "https://avatars.githubusercontent.com/u/75011?v=4",
+          "url": "https://github.com/maruel",
+          "contributions": 1,
+          "percentage": 3.33
+        },
+        {
+          "username": "michael-berlin",
+          "avatar": "https://avatars.githubusercontent.com/u/3919251?v=4",
+          "url": "https://github.com/michael-berlin",
+          "contributions": 1,
+          "percentage": 3.33
+        },
+        {
+          "username": "stapelberg",
+          "avatar": "https://avatars.githubusercontent.com/u/55506?v=4",
+          "url": "https://github.com/stapelberg",
+          "contributions": 1,
+          "percentage": 3.33
+        },
+        {
+          "username": "Spground",
+          "avatar": "https://avatars.githubusercontent.com/u/10492823?v=4",
+          "url": "https://github.com/Spground",
+          "contributions": 1,
+          "percentage": 3.33
+        },
+        {
+          "username": "joaoofreitas",
+          "avatar": "https://avatars.githubusercontent.com/u/31630346?v=4",
+          "url": "https://github.com/joaoofreitas",
+          "contributions": 1,
+          "percentage": 3.33
+        }
+      ],
+      "totalContributions": 30
+    },
+    {
+      "org": "golang",
+      "repo": "example",
+      "url": "https://github.com/golang/example",
+      "contributors": [
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 10,
+          "percentage": 34.48
+        },
+        {
+          "username": "adonovan",
+          "avatar": "https://avatars.githubusercontent.com/u/5658175?v=4",
+          "url": "https://github.com/adonovan",
+          "contributions": 7,
+          "percentage": 24.14
+        },
+        {
+          "username": "broady",
+          "avatar": "https://avatars.githubusercontent.com/u/24982?v=4",
+          "url": "https://github.com/broady",
+          "contributions": 2,
+          "percentage": 6.9
+        },
+        {
+          "username": "hyangah",
+          "avatar": "https://avatars.githubusercontent.com/u/4999471?v=4",
+          "url": "https://github.com/hyangah",
+          "contributions": 2,
+          "percentage": 6.9
+        },
+        {
+          "username": "AlekSi",
+          "avatar": "https://avatars.githubusercontent.com/u/11512?v=4",
+          "url": "https://github.com/AlekSi",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "davidrjenni",
+          "avatar": "https://avatars.githubusercontent.com/u/10241572?v=4",
+          "url": "https://github.com/davidrjenni",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "campoy",
+          "avatar": "https://avatars.githubusercontent.com/u/2237452?v=4",
+          "url": "https://github.com/campoy",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "morenoh149",
+          "avatar": "https://avatars.githubusercontent.com/u/587438?v=4",
+          "url": "https://github.com/morenoh149",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "findleyr",
+          "avatar": "https://avatars.githubusercontent.com/u/57144380?v=4",
+          "url": "https://github.com/findleyr",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "rsc",
+          "avatar": "https://avatars.githubusercontent.com/u/104030?v=4",
+          "url": "https://github.com/rsc",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "suzmue",
+          "avatar": "https://avatars.githubusercontent.com/u/6634754?v=4",
+          "url": "https://github.com/suzmue",
+          "contributions": 1,
+          "percentage": 3.45
+        },
+        {
+          "username": "mpl",
+          "avatar": "https://avatars.githubusercontent.com/u/626071?v=4",
+          "url": "https://github.com/mpl",
+          "contributions": 1,
+          "percentage": 3.45
+        }
+      ],
+      "totalContributions": 29
+    },
+    {
+      "org": "golang",
+      "repo": "winstrap",
+      "url": "https://github.com/golang/winstrap",
+      "contributors": [
+        {
+          "username": "bradfitz",
+          "avatar": "https://avatars.githubusercontent.com/u/2621?v=4",
+          "url": "https://github.com/bradfitz",
+          "contributions": 16,
+          "percentage": 64
+        },
+        {
+          "username": "adg",
+          "avatar": "https://avatars.githubusercontent.com/u/8446613?v=4",
+          "url": "https://github.com/adg",
+          "contributions": 5,
+          "percentage": 20
+        },
+        {
+          "username": "frederich",
+          "avatar": "https://avatars.githubusercontent.com/u/274349?v=4",
+          "url": "https://github.com/frederich",
+          "contributions": 2,
+          "percentage": 8
+        },
+        {
+          "username": "napcs",
+          "avatar": "https://avatars.githubusercontent.com/u/1306?v=4",
+          "url": "https://github.com/napcs",
+          "contributions": 1,
+          "percentage": 4
+        },
+        {
+          "username": "jba",
+          "avatar": "https://avatars.githubusercontent.com/u/18483045?v=4",
+          "url": "https://github.com/jba",
+          "contributions": 1,
+          "percentage": 4
+        }
+      ],
+      "totalContributions": 25
+    }
+  ]
+}
